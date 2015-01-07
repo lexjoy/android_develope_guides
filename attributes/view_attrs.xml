@@ -132,4 +132,8 @@
       <!-- ImageButton --><!-- API 1 -->
       <!-- @class android.widget.ImageButton -->
       <style name="View.ImageView.ImageButton"/>
+
+        <!-- ZoomButton --><!-- API 1 -->
+        <!-- @class android.widget.ZoomButton -->
+        <style name="View.ImageView.ImageButton.ZoomButton"/>
 </resources>
