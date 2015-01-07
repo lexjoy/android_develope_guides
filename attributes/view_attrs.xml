@@ -99,6 +99,7 @@
     <!-- AnalogClock --><!-- API 1 -->
     <!-- @class android.widget.AnalogClock -->
     <style name="View.AnalogClock">
+      <!-- API 1 -->
       <item name="android:dial">@null</item>
       <item name="android:hand_hour">@null</item>
       <item name="android:hand_minute">@null</item>
@@ -107,4 +108,24 @@
     <!-- SurfaceView --><!-- API 1 -->
     <!-- @class android.view.SurfaceView -->
     <style name="View.SurfaceView"/>
+
+    <!-- ImageView --><!-- API 1 -->
+    <!-- @class android.widget.ImageView -->
+    <style name="View.ImageView">
+      <!-- API 1 -->
+      <item name="android:adjustViewBounds">@null</item>
+      <item name="android:baselineAlignBottom">@null</item>
+      <item name="android:cropToPadding">@null</item>
+      <item name="android:maxHeight">@null</item>
+      <item name="android:maxWidth">@null</item>
+      <item name="android:scaleType">@null</item>
+      <item name="android:src">@null</item>
+      <item name="android:tint">@null</item>
+
+      <!-- API 11 -->
+      <item name="android:baseline">@null</item>
+
+      <!-- API 21 -->
+      <item name="android:tintMode">@null</item>
+    </style>
 </resources>
