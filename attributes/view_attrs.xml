@@ -398,6 +398,10 @@
           <!-- @class android.widget.MultiAutoCompleteTextView -->
           <style name="View.TextView.EditText.AutoCompleteTextView.MultiAutoCompleteTextView"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AutoCompleteTextView :end xxxxxxx -->
+
+        <!-- ExtractEditText --><!-- API 3 -->
+        <!-- @class android.inputmethodservice.ExtractEditText -->
+        <style name="View.TextView.EditText.ExtractEditText/">
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
