@@ -501,6 +501,28 @@
         <!-- AbsSpinner --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx AbsSpinner :start xxxxxxx -->
         <!-- @class android.widget.AbsSpinner -->
         <style name="View.ViewGroup.AdapterView.AbsSpinner">
+          <item name="android:entries">@null</item>
+        </style>
+
+          <!-- Spinner --><!-- API 1 -->
+          <!-- @class android.widget.Spinner -->
+          <style name="View.ViewGroup.AdapterView.AbsSpinner.Spinner">
+            <!-- API 1 -->
+            <item name="android:dropDownSelector">@null</item>
+            <item name="android:gravity">@null</item>
+            <item name="android:popupBackground">@null</item>
+            <item name="android:prompt">@null</item>
+
+            <!-- API 11 -->
+            <item name="android:spinnerMode">@null</item>
+
+            <!-- API 3 -->
+            <item name="android:dropDownWidth">@null</item>
+
+            <!-- API 5 -->
+            <item name="android:dropDownHorizontalOffset">@null</item>
+            <item name="android:dropDownVerticalOffset">@null</item>
+          </style>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsSpinner :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
