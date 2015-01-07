@@ -143,6 +143,43 @@
       <style name="View.ImageView.QuickContactBadge"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageView :end xxxxxxx -->
 
+    <!-- ProgressBar --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :start xxxxxxx -->
+    <!-- @class android.widget.ProgressBar -->
+    <style name="View.ProgressBar">
+      <!-- API 1 -->
+      <item name="android:indeterminate">@null</item>
+      <item name="android:indeterminateBehavior">@null</item>
+      <item name="android:indeterminateDrawable">@null</item>
+      <item name="android:indeterminateDuration">@null</item>
+      <item name="android:indeterminateOnly">@null</item>
+      <item name="android:interpolator">@null</item>
+      <item name="android:max">@null</item>
+      <item name="android:maxHeight">@null</item>
+      <item name="android:maxWidth">@null</item>
+      <item name="android:minHeight">@null</item>
+      <item name="android:minWidth">@null</item>
+      <item name="android:progress">@null</item>
+      <item name="android:progressDrawable">@null</item>
+      <item name="android:secondaryProgress">@null</item>
+
+      <!-- API 11 -->
+      <item name="android:animationResolution">@null</item>
+
+      <!-- API 18 -->
+      <item name="android:mirrorForRtl">@null</item>
+
+      <!-- API 21 -->
+      <item name="android:indeterminateTint">@null</item>
+      <item name="android:indeterminateTintMode">@null</item>
+      <item name="android:progressBackgroundTint">@null</item>
+      <item name="android:progressBackgroundTintMode">@null</item>
+      <item name="android:progressTint">@null</item>
+      <item name="android:progressTintMode">@null</item>
+      <item name="android:secondaryProgressTint">@null</item>
+      <item name="android:secondaryProgressTintMode">@null</item>
+    </style>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
+
     <!-- KeyboardView --><!-- API 3 -->
     <!-- @class android.inputmethodservice.KeyboardView -->
     <style name="View.KeyboardView">
