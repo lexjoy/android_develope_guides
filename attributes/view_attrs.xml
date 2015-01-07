@@ -592,6 +592,10 @@
           <item name="android:yearListSelectorColor">@null</item>
         </style>
 
+        <!-- TimePicker --><!-- API 1 -->
+        <!-- @class android.widget.TimePicker -->
+        <style name="View.ViewGroup.FrameLayout.TimePicker"/>
+
         <!-- MediaController --><!-- API 1 -->
         <!-- @class android.widget.MediaController -->
         <style name="View.ViewGroup.FrameLayout.MediaController"/>
@@ -603,10 +607,9 @@
           <item name="android:fillViewport">@null</item>
         </style>
 
-        <!-- TabHost --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TabHost :start xxxxxxx -->
+        <!-- TabHost --><!-- API 1 -->
         <!-- @class android.widget.TabHost -->
         <style name="View.ViewGroup.FrameLayout.TabHost"/>
-        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TabHost :end xxxxxxx -->
 
         <!-- AppWidgetHostView --><!-- API 3 -->
         <!-- @class android.appwidget.AppWidgetHostView -->
