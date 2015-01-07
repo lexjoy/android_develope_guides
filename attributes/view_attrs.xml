@@ -301,6 +301,15 @@
       <!-- Button --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :start xxxxxxx -->
       <!-- @class android.widget.Button -->
       <style name="View.TextView.Button"/>
+
+        <!-- CompoundButton --><!-- API 1 --><!-- xxxxxxxxxxxxxxxx CompoundButton :start xxxxxxx -->
+        <!-- @class android.widget.CompoundButton -->
+        <style name="View.TextView.Button.CompoundButton">
+          <!-- API 21 -->
+          <item name="android:buttonTint">@null</item>
+          <item name="android:buttonTintMode">@null</item>
+        </style>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
