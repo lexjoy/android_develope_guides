@@ -696,6 +696,22 @@
           <item name="android:weekSeparatorLineColor">@null</item>
         </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
+
+      <!-- LinearLayout --><!-- API 11 --><!-- xxxxxxxxxxxxxxxxxxxxx LinearLayout :start xxxxxxx -->
+      <!-- @class android.widget.LinearLayout -->
+      <style name="View.ViewGroup.LinearLayout">
+        <!-- API 1 -->
+        <item name="android:baselineAligned">@null</item>
+        <item name="android:baselineAlignedChildIndex">@null</item>
+        <item name="android:divider">@null</item>
+        <item name="android:gravity">@null</item>
+        <item name="android:orientation">@null</item>
+        <item name="android:weightSum">@null</item>
+
+        <!-- API 11 -->
+        <item name="android:measureWithLargestChild">@null</item>
+      </style>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
