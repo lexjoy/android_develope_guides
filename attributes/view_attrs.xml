@@ -697,7 +697,7 @@
         </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
 
-      <!-- LinearLayout --><!-- API 11 --><!-- xxxxxxxxxxxxxxxxxxxxx LinearLayout :start xxxxxxx -->
+      <!-- LinearLayout --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxx LinearLayout :start xxxxxxx -->
       <!-- @class android.widget.LinearLayout -->
       <style name="View.ViewGroup.LinearLayout">
         <!-- API 1 -->
@@ -711,6 +711,10 @@
         <!-- API 11 -->
         <item name="android:measureWithLargestChild">@null</item>
       </style>
+
+        <!-- ActionMenuView --><!-- API 21 -->
+        <!-- @class android.widget.ActionMenuView -->
+        <style name="View.ViewGroup.LinearLayout.ActionMenuView"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
