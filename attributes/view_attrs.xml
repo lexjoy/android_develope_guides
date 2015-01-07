@@ -96,6 +96,14 @@
     <item name="android:transitionName">@null</item>
   </style>
 
+    <!-- AnalogClock --><!-- API 1 -->
+    <!-- @class android.widget.AnalogClock -->
+    <style name="View.AnalogClock">
+      <item name="android:dial">@null</item>
+      <item name="android:hand_hour">@null</item>
+      <item name="android:hand_minute">@null</item>
+    </style>
+
     <!-- SurfaceView --><!-- API 1 -->
     <!-- @class android.view.SurfaceView -->
     <style name="View.SurfaceView"/>
