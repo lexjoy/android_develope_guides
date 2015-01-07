@@ -433,6 +433,25 @@
       <!-- AdapterView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx AdapterView :start xxxxxxx -->
       <!-- @class android.widget.AdapterView -->
       <style name="View.ViewGroup.AdapterView"/>
+
+        <!-- AbsListView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxx AbsListView :start xxxxxxx -->
+        <!-- @class android.widget.AbsListView -->
+        <style name="View.ViewGroup.AdapterView.AbsListView">
+          <!-- API 1 -->
+          <item name="android:cacheColorHint">@null</item>
+          <item name="android:choiceMode">@null</item>
+          <item name="android:drawSelectorOnTop">@null</item>
+          <item name="android:listSelector">@null</item>
+          <item name="android:scrollingCache">@null</item>
+          <item name="android:stackFromBottom">@null</item>
+          <item name="android:textFilterEnabled">@null</item>
+          <item name="android:transcriptMode">@null</item>
+
+          <!-- API 3 -->
+          <item name="android:fastScrollEnabled">@null</item>
+          <item name="android:smoothScrollbar">@null</item>
+        </style>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsListView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
