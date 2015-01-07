@@ -429,6 +429,11 @@
       <!-- API 18 -->
       <!-- 18 --><item name="android:layoutMode">@null</item>
     </style>
+
+      <!-- AdapterView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx AdapterView :start xxxxxxx -->
+      <!-- @class android.widget.AdapterView -->
+      <style name="View.ViewGroup.AdapterView"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
