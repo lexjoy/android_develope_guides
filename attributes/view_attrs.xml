@@ -192,6 +192,13 @@
           <item name="android:rating">@null</item>
           <item name="android:stepSize">@null</item>
         </style>
+
+        <!-- SeekBar --><!-- API 1 -->
+        <!-- @class android.widget.SeekBar -->
+        <style name="View.ProgressBar.AbsSeekBar.SeekBar">
+          <!-- API 1 -->
+          <item name="android:thumb">@null</item>
+        </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsSeekBar :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
 
