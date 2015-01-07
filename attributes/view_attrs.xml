@@ -300,7 +300,7 @@
 
       <!-- CheckedTextView --><!-- API 1 -->
       <!-- @class android.widget.CheckedTextView -->
-      <style name="View.TextView.CheckedTextView"/>
+      <style name="View.TextView.CheckedTextView">
         <!-- API 1 -->
         <item name="android:checkMark">@null</item>
         <item name="android:checked">@null</item>
@@ -308,6 +308,12 @@
         <!-- API 21 -->
         <item name="android:checkMarkTint">@null</item>
         <item name="android:checkMarkTintMode">@null</item>
+      </style>
+
+      <!-- Chronometer --><!-- API 1 -->
+      <!-- @class android.widget.Chronometer -->
+      <style name="View.TextView.Chronometer">
+        <item name="android:format">@null</item>
       </style>
 
       <!-- Button --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :start xxxxxxx -->
