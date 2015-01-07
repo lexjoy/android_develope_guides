@@ -367,6 +367,11 @@
           </style>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
+
+      <!-- EditText --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :start xxxxxxx -->
+      <!-- @class android.widget.EditText -->
+      <style name="View.TextView.EditText"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
