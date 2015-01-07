@@ -1,5 +1,5 @@
 <resources>
-  <!-- View --><!-- API 1 -->
+  <!-- View --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :start xxxxxxx -->
   <!-- @class android.view.View -->
   <style name="View">
     <!-- API 1 -->
@@ -109,7 +109,7 @@
     <!-- @class android.view.SurfaceView -->
     <style name="View.SurfaceView"/>
 
-    <!-- ImageView --><!-- API 1 -->
+    <!-- ImageView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageView :start xxxxxxx -->
     <!-- @class android.widget.ImageView -->
     <style name="View.ImageView">
       <!-- API 1 -->
@@ -129,15 +129,19 @@
       <item name="android:tintMode">@null</item>
     </style>
 
-      <!-- ImageButton --><!-- API 1 -->
+      <!-- ImageButton --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx ImageButton :start xxxxxxx -->
       <!-- @class android.widget.ImageButton -->
       <style name="View.ImageView.ImageButton"/>
 
         <!-- ZoomButton --><!-- API 1 -->
         <!-- @class android.widget.ZoomButton -->
         <style name="View.ImageView.ImageButton.ZoomButton"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageButton :end xxxxxxx -->
 
       <!-- QuickContactBadge --><!-- API 5 -->
       <!-- @class android.widget.QuickContactBadge -->
       <style name="View.ImageView.QuickContactBadge"/>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageView :end xxxxxxx -->
+  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
+
 </resources>
