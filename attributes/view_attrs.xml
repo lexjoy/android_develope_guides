@@ -596,6 +596,26 @@
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
 
+        <!-- GestureOverlayView --><!-- API 4 -->
+        <!-- @class android.gesture.GestureOverlayView -->
+        <style name="View.ViewGroup.FrameLayout.GestureOverlayView">
+          <!-- API 1 -->
+          <item name="android:orientation">@null</item>
+
+          <!-- API 4 -->
+          <item name="android:eventsInterceptionEnabled">@null</item>
+          <item name="android:fadeDuration">@null</item>
+          <item name="android:fadeEnabled">@null</item>
+          <item name="android:fadeOffset">@null</item>
+          <item name="android:gestureColor">@null</item>
+          <item name="android:gestureStrokeAngleThreshold">@null</item>
+          <item name="android:gestureStrokeLengthThreshold">@null</item>
+          <item name="android:gestureStrokeSquarenessThreshold">@null</item>
+          <item name="android:gestureStrokeType">@null</item>
+          <item name="android:gestureStrokeWidth">@null</item>
+          <item name="android:uncertainGestureColor">@null</item>
+        </style>
+
         <!-- CalendarView --><!-- API 11 -->
         <!-- @class android.widget.CalendarView -->
         <style name="View.ViewGroup.FrameLayout.CalendarView">
