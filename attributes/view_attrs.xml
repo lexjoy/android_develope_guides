@@ -178,6 +178,11 @@
       <item name="android:secondaryProgressTint">@null</item>
       <item name="android:secondaryProgressTintMode">@null</item>
     </style>
+
+      <!-- AbsSeekBar --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxx AbsSeekBar :start xxxxxxx -->
+      <!-- @class android.widget.AbsSeekBar -->
+      <style name="View.ProgressBar.AbsSeekBar"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsSeekBar :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
