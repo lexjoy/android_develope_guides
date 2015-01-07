@@ -402,6 +402,10 @@
         <!-- ExtractEditText --><!-- API 3 -->
         <!-- @class android.inputmethodservice.ExtractEditText -->
         <style name="View.TextView.EditText.ExtractEditText/">
+
+        <!-- TextClock --><!-- API 17 -->
+        <!-- @class android.widget.TextClock -->
+        <style name="View.TextView.EditText.TextClock"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
