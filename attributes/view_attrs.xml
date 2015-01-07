@@ -393,6 +393,10 @@
           <item name="android:dropDownHorizontalOffset">@null</item>
           <item name="android:dropDownVerticalOffset">@null</item>
         </style>
+
+          <!-- MultiAutoCompleteTextView --><!-- API 1 -->
+          <!-- @class android.widget.MultiAutoCompleteTextView -->
+          <style name="View.TextView.EditText.AutoCompleteTextView.MultiAutoCompleteTextView"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AutoCompleteTextView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
