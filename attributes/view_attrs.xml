@@ -617,6 +617,16 @@
           <!-- API 11 -->
           <item name="android:animateFirstView">@null</item>
         </style>
+
+          <!-- ViewFlipper --><!-- API 1 -->
+          <!-- @class android.widget.ViewFlipper -->
+          <style name="View.ViewGroup.FrameLayout.ViewAnimator.ViewFlipper">
+            <!-- API 1 -->
+            <item name="android:flipInterval">@null</item>
+
+            <!-- API 7 -->
+            <item name="android:autoStart">@null</item>
+          </style>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewAnimator :end xxxxxxx -->
 
         <!-- TabHost --><!-- API 1 -->
