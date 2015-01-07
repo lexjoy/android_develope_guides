@@ -211,6 +211,94 @@
       <style name="View.SurfaceView.GLSurfaceView"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SurfaceView :end xxxxxxx -->
 
+    <!-- TextView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :start xxxxxxx -->
+    <!-- @class android.widget.TextView -->
+    <style name="View.TextView">
+      <!-- API 1 -->
+      <item name="android:autoLink">@null</item>
+      <item name="android:autoText">@null</item>
+      <item name="android:bufferType">@null</item>
+      <item name="android:capitalize">@null</item>
+      <item name="android:cursorVisible">@null</item>
+      <item name="android:digits">@null</item>
+      <item name="android:drawableBottom">@null</item>
+      <item name="android:drawableLeft">@null</item>
+      <item name="android:drawablePadding">@null</item>
+      <item name="android:drawableRight">@null</item>
+      <item name="android:drawableTop">@null</item>
+      <item name="android:editable">@null</item>
+      <item name="android:ellipsize">@null</item>
+      <item name="android:ems">@null</item>
+      <item name="android:freezesText">@null</item>
+      <item name="android:gravity">@null</item>
+      <item name="android:height">@null</item>
+      <item name="android:hint">@null</item>
+      <item name="android:includeFontPadding">@null</item>
+      <item name="android:inputMethod">@null</item>
+      <item name="android:lineSpacingExtra">@null</item>
+      <item name="android:lineSpacingMultiplier">@null</item>
+      <item name="android:lines">@null</item>
+      <item name="android:linksClickable">@null</item>
+      <item name="android:maxEms">@null</item>
+      <item name="android:maxHeight">@null</item>
+      <item name="android:maxLength">@null</item>
+      <item name="android:maxLines">@null</item>
+      <item name="android:maxWidth">@null</item>
+      <item name="android:minEms">@null</item>
+      <item name="android:minHeight">@null</item>
+      <item name="android:minLines">@null</item>
+      <item name="android:minWidth">@null</item>
+      <item name="android:numeric">@null</item>
+      <item name="android:password">@null</item>
+      <item name="android:phoneNumber">@null</item>
+      <item name="android:scrollHorizontally">@null</item>
+      <item name="android:selectAllOnFocus">@null</item>
+      <item name="android:shadowColor">@null</item>
+      <item name="android:shadowDx">@null</item>
+      <item name="android:shadowDy">@null</item>
+      <item name="android:shadowRadius">@null</item>
+      <item name="android:singleLine">@null</item>
+      <item name="android:text">@null</item>
+      <item name="android:textAppearance">@null</item>
+      <item name="android:textColor">@null</item>
+      <item name="android:textColorHighlight">@null</item>
+      <item name="android:textColorHint">@null</item>
+      <item name="android:textColorLink">@null</item>
+      <item name="android:textScaleX">@null</item>
+      <item name="android:textSize">@null</item>
+      <item name="android:textStyle">@null</item>
+      <item name="android:typeface">@null</item>
+      <item name="android:width">@null</item>
+
+      <!-- API 2 -->
+      <item name="android:marqueeRepeatLimit">@null</item>
+
+      <!-- API 3 -->
+      <item name="android:editorExtras">@null</item>
+      <item name="android:imeActionId">@null</item>
+      <item name="android:imeActionLabel">@null</item>
+      <item name="android:imeOptions">@null</item>
+      <item name="android:inputType">@null</item>
+      <item name="android:privateImeOptions">@null</item>
+
+      <!-- API 11 -->
+      <item name="android:textIsSelectable">@null</item>
+
+      <!-- API 14 -->
+      <item name="android:drawableEnd">@null</item>
+      <item name="android:drawableStart">@null</item>
+      <item name="android:textAllCaps">@null</item>
+
+      <!-- API 16 -->
+      <item name="android:fontFamily">@null</item>
+
+      <!-- API 21 -->
+      <item name="android:fontFeatureSettings">@null</item>
+      <item name="android:letterSpacing">@null</item>
+      <item name="android:elegantTextHeight">@null</item>
+    </style>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
+
     <!-- KeyboardView --><!-- API 3 -->
     <!-- @class android.inputmethodservice.KeyboardView -->
     <style name="View.KeyboardView">
