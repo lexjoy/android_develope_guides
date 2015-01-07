@@ -37,6 +37,18 @@
           <item name="android.support.v7.cardview:contentPaddingTop">@null</item>
         </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
+
+      <!-- GridLayout -->
+      <!-- @class android.support.v7.widget.GridLayout -->
+      <style name="View.ViewGroup.GridLayout_v7">
+        <item name="alignmentMode">@null</item>
+        <item name="columnCount">@null</item>
+        <item name="columnOrderPreserved">@null</item>
+        <item name="orientation">@null</item>
+        <item name="rowCount">@null</item>
+        <item name="rowOrderPreserved">@null</item>
+        <item name="useDefaultMargins">@null</item>
+      </style>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
