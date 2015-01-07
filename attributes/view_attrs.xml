@@ -105,10 +105,6 @@
       <item name="android:hand_minute">@null</item>
     </style>
 
-    <!-- SurfaceView --><!-- API 1 -->
-    <!-- @class android.view.SurfaceView -->
-    <style name="View.SurfaceView"/>
-
     <!-- ImageView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageView :start xxxxxxx -->
     <!-- @class android.widget.ImageView -->
     <style name="View.ImageView">
@@ -201,6 +197,11 @@
         </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsSeekBar :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
+
+    <!-- SurfaceView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxx SurfaceView :start xxxxxxx -->
+    <!-- @class android.view.SurfaceView -->
+    <style name="View.SurfaceView"/>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SurfaceView :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
     <!-- @class android.inputmethodservice.KeyboardView -->
