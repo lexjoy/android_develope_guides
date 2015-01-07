@@ -6,6 +6,10 @@
         <!-- SearchEditText -->
         <!-- @class android.support.v17.leanback.widget.SearchEditText -->
         <style name="View.TextView.EditText.SearchEditText_v17"/>
+
+        <!-- RowHeaderView -->
+        <!-- @class android.support.v17.leanback.widget.RowHeaderView -->
+        <style name="View.TextView.EditText.RowHeaderView_v17"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
