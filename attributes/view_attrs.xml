@@ -603,6 +603,11 @@
           <item name="android:fillViewport">@null</item>
         </style>
 
+        <!-- TabHost --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TabHost :start xxxxxxx -->
+        <!-- @class android.widget.TabHost -->
+        <style name="View.ViewGroup.FrameLayout.TabHost"/>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TabHost :end xxxxxxx -->
+
         <!-- AppWidgetHostView --><!-- API 3 -->
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
