@@ -182,6 +182,16 @@
       <!-- AbsSeekBar --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxx AbsSeekBar :start xxxxxxx -->
       <!-- @class android.widget.AbsSeekBar -->
       <style name="View.ProgressBar.AbsSeekBar"/>
+
+        <!-- RatingBar --><!-- API 1 -->
+        <!-- @class android.widget.RatingBar -->
+        <style name="View.ProgressBar.AbsSeekBar.RatingBar">
+          <!-- API 1 -->
+          <item name="android:isIndicator">@null</item>
+          <item name="android:numStars">@null</item>
+          <item name="android:rating">@null</item>
+          <item name="android:stepSize">@null</item>
+        </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsSeekBar :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
 
