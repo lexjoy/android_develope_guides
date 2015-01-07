@@ -4,6 +4,10 @@
     <!-- MediaRouteButton -->
     <!-- @class android.support.v7.app.MediaRouteButton -->
     <style name="View.MediaRouteButton_v7"/>
+
+    <!-- Space -->
+    <!-- @class android.support.v7.widget.Space -->
+    <style name="View.Space_v7"/>
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
 </resources>
