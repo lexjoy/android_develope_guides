@@ -128,4 +128,8 @@
       <!-- API 21 -->
       <item name="android:tintMode">@null</item>
     </style>
+
+      <!-- ImageButton --><!-- API 1 -->
+      <!-- @class android.widget.ImageButton -->
+      <style name="View.ImageView.ImageButton"/>
 </resources>
