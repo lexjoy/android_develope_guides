@@ -1,0 +1,98 @@
+<resources>
+  <!-- View --><!-- API 1 -->
+  <!-- @class android.view.View -->
+  <style name="View">
+    <!-- API 1 -->
+    <item name="android:background">@null</item>
+    <item name="android:clickable">@null</item>
+    <item name="android:drawingCacheQuality">@null</item>
+    <item name="android:duplicateParentState">@null</item>
+    <item name="android:fadingEdgeLength">@null</item>
+    <item name="android:fitsSystemWindows">@null</item>
+    <item name="android:focusable">@null</item>
+    <item name="android:focusableInTouchMode">@null</item>
+    <item name="android:id">@null</item>
+    <item name="android:keepScreenOn">@null</item>
+    <item name="android:longClickable">@null</item>
+    <item name="android:minHeight">@null</item>
+    <item name="android:minWidth">@null</item>
+    <item name="android:nextFocusDown">@null</item>
+    <item name="android:nextFocusLeft">@null</item>
+    <item name="android:nextFocusRight">@null</item>
+    <item name="android:nextFocusUp">@null</item>
+    <item name="android:padding">@null</item>
+    <item name="android:paddingBottom">@null</item>
+    <item name="android:paddingLeft">@null</item>
+    <item name="android:paddingRight">@null</item>
+    <item name="android:paddingTop">@null</item>
+    <item name="android:saveEnabled">@null</item>
+    <item name="android:scrollX">@null</item>
+    <item name="android:scrollY">@null</item>
+    <item name="android:scrollbarAlwaysDrawHorizontalTrack">@null</item>
+    <item name="android:scrollbarAlwaysDrawVerticalTrack">@null</item>
+    <item name="android:scrollbarSize">@null</item>
+    <item name="android:scrollbarStyle">@null</item>
+    <item name="android:scrollbarThumbHorizontal">@null</item>
+    <item name="android:scrollbarThumbVertical">@null</item>
+    <item name="android:scrollbarTrackHorizontal">@null</item>
+    <item name="android:scrollbarTrackVertical">@null</item>
+    <item name="android:scrollbars">@null</item>
+    <item name="android:soundEffectsEnabled">@null</item>
+    <item name="android:tag">@null</item>
+    <item name="android:visibility">@null</item>
+
+    <!-- API 3 -->
+    <item name="android:hapticFeedbackEnabled">@null</item>
+    <item name="android:isScrollContainer">@null</item>
+
+    <!-- API 4 -->
+    <item name="android:contentDescription">@null</item>
+    <item name="android:onClick">@null</item>
+
+    <!-- API 5 -->
+    <item name="android:fadeScrollbars">@null</item>
+    <item name="android:scrollbarDefaultDelayBeforeFade">@null</item>
+    <item name="android:scrollbarFadeDuration">@null</item>
+
+    <!-- API 9 -->
+    <item name="android:filterTouchesWhenObscured">@null</item>
+
+    <!-- API 11 -->
+    <item name="android:alpha">@null</item>
+    <item name="android:layerType">@null</item>
+    <item name="android:nextFocusForward">@null</item>
+    <item name="android:rotation">@null</item>
+    <item name="android:rotationX">@null</item>
+    <item name="android:rotationY">@null</item>
+    <item name="android:scaleX">@null</item>
+    <item name="android:scaleY">@null</item>
+    <item name="android:transformPivotX">@null</item>
+    <item name="android:transformPivotY">@null</item>
+    <item name="android:translationX">@null</item>
+    <item name="android:translationY">@null</item>
+
+    <!-- API 14 -->
+    <item name="android:requiresFadingEdge">@null</item>
+
+    <!-- API 16 -->
+    <item name="android:importantForAccessibility">@null</item>
+
+    <!-- API 17 -->
+    <item name="android:layoutDirection">@null</item>
+    <item name="android:paddingEnd">@null</item>
+    <item name="android:paddingStart">@null</item>
+    <item name="android:textAlignment">@null</item>
+    <item name="android:textDirection">@null</item>
+
+    <!-- API 19 -->
+    <item name="android:accessibilityLiveRegion">@null</item>
+
+    <!-- API 21 -->
+    <item name="android:backgroundTint">@null</item>
+    <item name="android:backgroundTintMode">@null</item>
+    <item name="android:elevation">@null</item>
+    <item name="android:stateListAnimator">@null</item>
+    <item name="android:translationZ">@null</item>
+    <item name="android:transitionName">@null</item>
+  </style>
+</resources>
