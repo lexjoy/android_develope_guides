@@ -627,6 +627,11 @@
             <!-- API 7 -->
             <item name="android:autoStart">@null</item>
           </style>
+
+          <!-- ViewSwitcher --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxx ViewSwitcher :start xxxxxxx -->
+          <!-- @class android.widget.ViewSwitcher -->
+          <style name="View.ViewGroup.FrameLayout.ViewAnimator.ViewSwitcher"/>
+          <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewSwitcher :end xxxxxxx -->
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewAnimator :end xxxxxxx -->
 
         <!-- TabHost --><!-- API 1 -->
