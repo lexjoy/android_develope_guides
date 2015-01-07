@@ -312,11 +312,33 @@
 
           <!-- CheckBox --><!-- API 1 -->
           <!-- @class android.widget.CheckBox -->
-          <style name="View.TextView.Button.CompoundButton.CheckBox">
+          <style name="View.TextView.Button.CompoundButton.CheckBox"/>
 
           <!-- RadioButton --><!-- API 1 -->
           <!-- @class android.widget.RadioButton -->
-          <style name="View.TextView.Button.CompoundButton.RadioButton">
+          <style name="View.TextView.Button.CompoundButton.RadioButton"/>
+
+          <!-- Switch --><!-- API 14 -->
+          <!-- @class android.widget.Switch -->
+          <style name="View.TextView.Button.CompoundButton.Switch">
+            <!-- API 1 -->
+            <item name="android:textOff">@null</item>
+            <item name="android:textOn">@null</item>
+            <item name="android:textStyle">@null</item>
+            <item name="android:thumb">@null</item>
+            <item name="android:typeface">@null</item>
+
+            <!-- API 14 -->
+            <item name="android:switchMinWidth">@null</item>
+            <item name="android:switchPadding">@null</item>
+            <item name="android:switchTextAppearance">@null</item>
+            <item name="android:thumbTextPadding">@null</item>
+            <item name="android:track">@null</item>
+
+            <!-- API 21 -->
+            <item name="android:showText">@null</item>
+            <item name="android:splitTrack">@null</item>
+          </style>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
