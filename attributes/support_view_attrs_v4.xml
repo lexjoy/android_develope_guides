@@ -1,0 +1,10 @@
+<resources>
+
+  <!-- View --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :start xxxxxxx -->
+    <!-- ProgressBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :start xxxxxxx -->
+      <!-- ContentLoadingProgressBar -->
+      <style name="View.ProgressBar.ContentLoadingProgressBar_v4/>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
+  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
+
+</resources>
