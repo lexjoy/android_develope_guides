@@ -27,6 +27,10 @@
         <!-- SearchOrbView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SearchOrbView :start xxxxxxx -->
         <!-- @class android.support.v17.leanback.widget.SearchOrbView -->
         <style name="View.ViewGroup.FrameLayout.SearchOrbView_v17"/>
+
+          <!-- SpeechOrbView -->
+          <!-- @class 	android.support.v17.leanback.widget.SpeechOrbView -->
+          <style name="View.ViewGroup.FrameLayout.SearchOrbView_v17.SpeechOrbView_v17"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SearchOrbView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
