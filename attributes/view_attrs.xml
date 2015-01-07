@@ -463,6 +463,20 @@
             <item name="android:stretchMode">@null</item>
             <item name="android:verticalSpacing">@null</item>
           </style>
+
+          <!-- ListView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxx ListView :start xxxxxxx -->
+          <!-- @class android.widget.ListView -->
+          <style name="View.ViewGroup.AdapterView.AbsListView.ListView">
+            <!-- API 1 -->
+            <item name="android:divider">@null</item>
+            <item name="android:dividerHeight">@null</item>
+            <item name="android:entries">@null</item>
+
+            <!-- API 3 -->
+            <item name="android:footerDividersEnabled">@null</item>
+            <item name="android:headerDividersEnabled">@null</item>
+          </style>
+          <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ListView :end xxxxxxx -->
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsListView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
