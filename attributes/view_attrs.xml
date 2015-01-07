@@ -546,6 +546,10 @@
             <!-- API 7 -->
             <item name="android:autoStart">@null</item>
           </style>
+
+          <!-- StackView --><!-- API 11 -->
+          <!-- @class android.widget.StackView -->
+          <style name="View.ViewGroup.AdapterView.AdapterViewAnimator.StackView"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterViewAnimator :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
