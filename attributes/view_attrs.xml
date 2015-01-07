@@ -565,6 +565,10 @@
         <item name="android:foregroundTint">@null</item>
         <item name="android:foregroundTintMode">@null</item>
       </style>
+
+        <!-- AppWidgetHostView --><!-- API 3 -->
+        <!-- @class android.appwidget.AppWidgetHostView -->
+        <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
