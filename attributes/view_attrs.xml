@@ -634,7 +634,11 @@
 
             <!-- ImageSwitcher --><!-- API 1 -->
             <!-- @class android.widget.ImageSwitcher -->
-            <style name="View.ViewGroup.FrameLayout.ViewAnimator.ViewSwitcher。ImageSwitcher"/>
+            <style name="View.ViewGroup.FrameLayout.ViewAnimator.ViewSwitcher.ImageSwitcher"/>
+
+            <!-- TextSwitcher --><!-- API 1 -->
+            <!-- @class android.widget.TextSwitcher -->
+            <style name="View.ViewGroup.FrameLayout.ViewAnimator.ViewSwitcher.TextSwitcher"/>
           <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewSwitcher :end xxxxxxx -->
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewAnimator :end xxxxxxx -->
 
