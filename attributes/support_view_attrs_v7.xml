@@ -1,0 +1,9 @@
+<resources>
+
+  <!-- View --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :start xxxxxxx -->
+    <!-- MediaRouteButton -->
+    <!-- @class android.support.v7.app.MediaRouteButton -->
+    <style name="View.MediaRouteButton_v7"/>
+  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
+
+</resources>
