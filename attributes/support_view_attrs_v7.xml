@@ -8,6 +8,16 @@
     <!-- Space -->
     <!-- @class android.support.v7.widget.Space -->
     <style name="View.Space_v7"/>
+
+    <!-- TextView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :start xxxxxxx -->
+      <!-- Button --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :start xxxxxxx -->
+        <!-- CompoundButton --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :start xxxxxxx -->
+          <!-- SwitchCompat -->
+          <!-- @class android.support.v7.widget.SwitchCompat -->
+          <style name="View.TextView.CompoundButton.SwitchCompat_v7"/>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
 </resources>
