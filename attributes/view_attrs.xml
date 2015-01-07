@@ -476,6 +476,25 @@
             <item name="android:footerDividersEnabled">@null</item>
             <item name="android:headerDividersEnabled">@null</item>
           </style>
+
+            <!-- ExpandableListView --><!-- API 1 -->
+            <!-- @class android.widget.ExpandableListView -->
+            <style name="View.ViewGroup.AdapterView.AbsListView.ListView.ExpandableListView">
+              <!-- API 1 -->
+              <item name="android:childDivider">@null</item>
+              <item name="android:childIndicator">@null</item>
+              <item name="android:childIndicatorLeft">@null</item>
+              <item name="android:childIndicatorRight">@null</item>
+              <item name="android:groupIndicator">@null</item>
+              <item name="android:indicatorLeft">@null</item>
+              <item name="android:indicatorRight">@null</item>
+
+              <!-- API 18 -->
+              <item name="android:childIndicatorEnd">@null</item>
+              <item name="android:childIndicatorStart">@null</item>
+              <item name="android:indicatorEnd">@null</item>
+              <item name="android:indicatorStart">@null</item>
+            </style>
           <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ListView :end xxxxxxx -->
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsListView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
