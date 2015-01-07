@@ -136,4 +136,8 @@
         <!-- ZoomButton --><!-- API 1 -->
         <!-- @class android.widget.ZoomButton -->
         <style name="View.ImageView.ImageButton.ZoomButton"/>
+
+      <!-- QuickContactBadge --><!-- API 5 -->
+      <!-- @class android.widget.QuickContactBadge -->
+      <style name="View.ImageView.QuickContactBadge"/>
 </resources>
