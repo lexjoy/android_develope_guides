@@ -297,6 +297,11 @@
       <item name="android:letterSpacing">@null</item>
       <item name="android:elegantTextHeight">@null</item>
     </style>
+
+      <!-- Button --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :start xxxxxxx -->
+      <!-- @class android.widget.Button -->
+      <style name="View.TextView.Button"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
