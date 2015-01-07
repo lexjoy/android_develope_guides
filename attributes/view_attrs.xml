@@ -596,6 +596,13 @@
         <!-- @class android.widget.MediaController -->
         <style name="View.ViewGroup.FrameLayout.MediaController"/>
 
+        <!-- ScrollView --><!-- API 1 -->
+        <!-- @class android.widget.ScrollView -->
+        <style name="View.ViewGroup.FrameLayout.ScrollView">
+          <!-- API 1 -->
+          <item name="android:fillViewport">@null</item>
+        </style>
+
         <!-- AppWidgetHostView --><!-- API 3 -->
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
