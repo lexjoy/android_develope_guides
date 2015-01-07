@@ -318,6 +318,14 @@
           <!-- @class android.widget.RadioButton -->
           <style name="View.TextView.Button.CompoundButton.RadioButton"/>
 
+          <!-- ToggleButton --><!-- API 1 -->
+          <!-- @class android.widget.ToggleButton -->
+          <style name="View.TextView.Button.CompoundButton.ToggleButton">
+            <item name="android:disabledAlpha">@null</item>
+            <item name="android:textOff">@null</item>
+            <item name="android:textOn">@null</item>
+          </style>
+
           <!-- Switch --><!-- API 14 -->
           <!-- @class android.widget.Switch -->
           <style name="View.TextView.Button.CompoundButton.Switch">
