@@ -1,0 +1,13 @@
+<resources>
+
+  <!-- View --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :start xxxxxxx -->
+    <!-- TextView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :start xxxxxxx -->
+      <!-- EditText --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :start xxxxxxx -->
+        <!-- SearchEditText -->
+        <!-- @class android.support.v17.leanback.widget.SearchEditText -->
+        <style name="View.TextView.EditText.SearchEditText_v17"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
+  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
+
+</resources>
