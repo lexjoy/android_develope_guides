@@ -201,6 +201,10 @@
     <!-- SurfaceView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxx SurfaceView :start xxxxxxx -->
     <!-- @class android.view.SurfaceView -->
     <style name="View.SurfaceView"/>
+
+      <!-- GLSurfaceView --><!-- API 3 -->
+      <!-- @class android.opengl.GLSurfaceView -->
+      <style name="View.SurfaceView.GLSurfaceView"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SurfaceView :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
