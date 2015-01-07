@@ -309,6 +309,10 @@
           <item name="android:buttonTint">@null</item>
           <item name="android:buttonTintMode">@null</item>
         </style>
+
+          <!-- CheckBox --><!-- API 1 -->
+          <!-- @class android.widget.CheckBox -->
+          <style name="View.TextView.Button.CompoundButton.CheckBox">
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
