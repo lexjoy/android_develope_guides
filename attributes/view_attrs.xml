@@ -422,6 +422,10 @@
       <item name="android:popupLayout">@null</item>
       <item name="android:verticalCorrection">@null</item>
     </style>
+
+    <!-- TextureView --><!-- API 14 -->
+    <!-- @class android.view.TextureView -->
+    <style name="View.TextureView"/>
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
 </resources>
