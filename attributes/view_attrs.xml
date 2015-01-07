@@ -497,6 +497,11 @@
             </style>
           <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ListView :end xxxxxxx -->
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsListView :end xxxxxxx -->
+
+        <!-- AbsSpinner --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx AbsSpinner :start xxxxxxx -->
+        <!-- @class android.widget.AbsSpinner -->
+        <style name="View.ViewGroup.AdapterView.AbsSpinner">
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsSpinner :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
