@@ -566,6 +566,32 @@
         <item name="android:foregroundTintMode">@null</item>
       </style>
 
+        <!-- DatePicker --><!-- API 1 -->
+        <!-- @class android.widget.DatePicker -->
+        <style name="View.ViewGroup.FrameLayout.DatePicker">
+          <!-- API 1 -->
+          <item name="android:endYear">@null</item>
+          <item name="android:headerBackground">@null</item>
+          <item name="android:startYear">@null</item>
+
+          <!-- API 11 -->
+          <item name="android:calendarViewShown">@null</item>
+          <item name="android:firstDayOfWeek">@null</item>
+          <item name="android:maxDate">@null</item>
+          <item name="android:minDate">@null</item>
+          <item name="android:spinnersShown">@null</item>
+
+          <!-- API 21 -->
+          <item name="android:calendarTextColor">@null</item>
+          <item name="android:dayOfWeekBackground">@null</item>
+          <item name="android:dayOfWeekTextAppearance">@null</item>
+          <item name="android:headerDayOfMonthTextAppearance">@null</item>
+          <item name="android:headerMonthTextAppearance">@null</item>
+          <item name="android:headerYearTextAppearance">@null</item>
+          <item name="android:yearListItemTextAppearance">@null</item>
+          <item name="android:yearListSelectorColor">@null</item>
+        </style>
+
         <!-- AppWidgetHostView --><!-- API 3 -->
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
