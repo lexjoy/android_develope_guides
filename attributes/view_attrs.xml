@@ -596,6 +596,13 @@
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
 
+        <!-- HorizontalScrollView --><!-- API 3 -->
+        <!-- @class android.widget.HorizontalScrollView -->
+        <style name="View.ViewGroup.FrameLayout.HorizontalScrollView">
+          <!-- API 1 -->
+          <item name="android:fillViewport">@null</item>
+        </style>
+
         <!-- GestureOverlayView --><!-- API 4 -->
         <!-- @class android.gesture.GestureOverlayView -->
         <style name="View.ViewGroup.FrameLayout.GestureOverlayView">
