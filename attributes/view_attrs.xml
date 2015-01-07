@@ -95,4 +95,8 @@
     <item name="android:translationZ">@null</item>
     <item name="android:transitionName">@null</item>
   </style>
+
+    <!-- SurfaceView --><!-- API 1 -->
+    <!-- @class android.view.SurfaceView -->
+    <style name="View.SurfaceView"/>
 </resources>
