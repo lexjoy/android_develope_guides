@@ -607,6 +607,18 @@
           <item name="android:fillViewport">@null</item>
         </style>
 
+        <!-- ViewAnimator --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxx ViewAnimator :start xxxxxxx -->
+        <!-- @class android.widget.ViewAnimator -->
+        <style name="View.ViewGroup.FrameLayout.ViewAnimator">
+          <!-- API 1 -->
+          <item name="android:inAnimation">@null</item>
+          <item name="android:outAnimation">@null</item>
+
+          <!-- API 11 -->
+          <item name="android:animateFirstView">@null</item>
+        </style>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewAnimator :end xxxxxxx -->
+
         <!-- TabHost --><!-- API 1 -->
         <!-- @class android.widget.TabHost -->
         <style name="View.ViewGroup.FrameLayout.TabHost"/>
