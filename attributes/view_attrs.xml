@@ -313,6 +313,10 @@
           <!-- CheckBox --><!-- API 1 -->
           <!-- @class android.widget.CheckBox -->
           <style name="View.TextView.Button.CompoundButton.CheckBox">
+
+          <!-- RadioButton --><!-- API 1 -->
+          <!-- @class android.widget.RadioButton -->
+          <style name="View.TextView.Button.CompoundButton.RadioButton">
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
