@@ -569,6 +569,25 @@
         <!-- AppWidgetHostView --><!-- API 3 -->
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
+
+        <!-- CalendarView --><!-- API 11 -->
+        <!-- @class android.widget.CalendarView -->
+        <style name="View.ViewGroup.FrameLayout.CalendarView">
+          <!-- API 11 -->
+          <item name="android:dateTextAppearance">@null</item>
+          <item name="android:firstDayOfWeek">@null</item>
+          <item name="android:focusedMonthDateColor">@null</item>
+          <item name="android:maxDate">@null</item>
+          <item name="android:minDate">@null</item>
+          <item name="android:selectedDateVerticalBar">@null</item>
+          <item name="android:selectedWeekBackgroundColor">@null</item>
+          <item name="android:showWeekNumber">@null</item>
+          <item name="android:shownWeekCount">@null</item>
+          <item name="android:unfocusedMonthDateColor">@null</item>
+          <item name="android:weekDayTextAppearance">@null</item>
+          <item name="android:weekNumberColor">@null</item>
+          <item name="android:weekSeparatorLineColor">@null</item>
+        </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
