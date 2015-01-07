@@ -592,6 +592,10 @@
           <item name="android:yearListSelectorColor">@null</item>
         </style>
 
+        <!-- MediaController --><!-- API 1 -->
+        <!-- @class android.widget.MediaController -->
+        <style name="View.ViewGroup.FrameLayout.MediaController"/>
+
         <!-- AppWidgetHostView --><!-- API 3 -->
         <!-- @class android.appwidget.AppWidgetHostView -->
         <style name="View.ViewGroup.FrameLayout.AppWidgetHostView"/>
