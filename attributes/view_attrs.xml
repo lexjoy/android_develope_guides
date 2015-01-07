@@ -142,6 +142,20 @@
       <!-- @class android.widget.QuickContactBadge -->
       <style name="View.ImageView.QuickContactBadge"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageView :end xxxxxxx -->
+
+    <!-- KeyboardView --><!-- API 3 -->
+    <!-- @class android.inputmethodservice.KeyboardView -->
+    <style name="View.KeyboardView">
+      <!-- API 3 -->
+      <item name="android:keyBackground">@null</item>
+      <item name="android:keyPreviewLayout">@null</item>
+      <item name="android:keyPreviewOffset">@null</item>
+      <item name="android:keyTextColor">@null</item>
+      <item name="android:keyTextSize">@null</item>
+      <item name="android:labelTextSize">@null</item>
+      <item name="android:popupLayout">@null</item>
+      <item name="android:verticalCorrection">@null</item>
+    </style>
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
 </resources>
