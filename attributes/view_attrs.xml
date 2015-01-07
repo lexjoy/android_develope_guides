@@ -528,11 +528,24 @@
         <!-- AdapterViewAnimator --><!-- API 11 --><!-- xxxxx AdapterViewAnimator :start xxxxxxx -->
         <!-- @class android.widget.AdapterViewAnimator -->
         <style name="View.ViewGroup.AdapterView.AdapterViewAnimator">
-          <item name="android:animateFirstView">@null</item>
+          <!-- API 1 -->
           <item name="android:inAnimation">@null</item>
-          <item name="android:loopViews">@null</item>
           <item name="android:outAnimation">@null</item>
+
+          <!-- API 11 -->
+          <item name="android:animateFirstView">@null</item>
+          <item name="android:loopViews">@null</item>
         </style>
+
+          <!-- AdapterViewFlipper --><!-- API 11 -->
+          <!-- @class android.widget.AdapterViewFlipper -->
+          <style name="View.ViewGroup.AdapterView.AdapterViewAnimator.AdapterViewFlipper">
+            <!-- API 1 -->
+            <item name="android:flipInterval">@null</item>
+
+            <!-- API 7 -->
+            <item name="android:autoStart">@null</item>
+          </style>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterViewAnimator :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
