@@ -23,6 +23,11 @@
           <!-- @class android.support.v17.leanback.widget.ImageCardView -->
           <style name="View.ViewGroup.FrameLayout.BaseCardView_v17.ImageCardView_v17"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx BaseCardView :end xxxxxxx -->
+        
+        <!-- SearchOrbView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SearchOrbView :start xxxxxxx -->
+        <!-- @class android.support.v17.leanback.widget.SearchOrbView -->
+        <style name="View.ViewGroup.FrameLayout.SearchOrbView_v17"/>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SearchOrbView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
