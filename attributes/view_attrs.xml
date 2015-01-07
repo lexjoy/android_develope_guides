@@ -552,6 +552,20 @@
           <style name="View.ViewGroup.AdapterView.AdapterViewAnimator.StackView"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterViewAnimator :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
+
+      <!-- FrameLayout --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
+      <!-- @class android.widget.FrameLayout -->
+      <style name="View.ViewGroup.FrameLayout">
+        <!-- API 1 -->
+        <item name="android:foreground">@null</item>
+        <item name="android:foregroundGravity">@null</item>
+        <item name="android:measureAllChildren">@null</item>
+
+        <!-- API 21 -->
+        <item name="android:foregroundTint">@null</item>
+        <item name="android:foregroundTintMode">@null</item>
+      </style>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
