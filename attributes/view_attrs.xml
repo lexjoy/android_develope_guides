@@ -409,6 +409,28 @@
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx EditText :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
+    <!-- ViewGroup --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+    <!-- @class android.view.ViewGroup -->
+    <style name="View.ViewGroup">
+      <!-- API 1 -->
+      <item name="android:addStatesFromChildren">@null</item>
+      <item name="android:alwaysDrawnWithCache">@null</item>
+      <item name="android:animationCache">@null</item>
+      <item name="android:clipChildren">@null</item>
+      <item name="android:clipToPadding">@null</item>
+      <item name="android:descendantFocusability">@null</item>
+      <item name="android:layoutAnimation">@null</item>
+      <item name="android:persistentDrawingCache">@null</item>
+
+      <!-- API 11 -->
+      <item name="android:animateLayoutChanges">@null</item>
+      <item name="android:splitMotionEvents">@null</item>
+
+      <!-- API 18 -->
+      <!-- 18 --><item name="android:layoutMode">@null</item>
+    </style>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
+
     <!-- KeyboardView --><!-- API 3 -->
     <!-- @class android.inputmethodservice.KeyboardView -->
     <style name="View.KeyboardView">
