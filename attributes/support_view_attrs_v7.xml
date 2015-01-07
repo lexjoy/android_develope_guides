@@ -18,6 +18,26 @@
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
+
+    <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+      <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
+        <!-- CardView -->
+        <!-- @class android.support.v7.widget.CardView -->
+        <style name="View.ViewGroup.FrameLayout.CardView_v7">
+          <item name="android.support.v7.cardview:cardBackgroundColor">@null</item>
+          <item name="android.support.v7.cardview:cardCornerRadius">@null</item>
+          <item name="android.support.v7.cardview:cardElevation">@null</item>
+          <item name="android.support.v7.cardview:cardMaxElevation">@null</item>
+          <item name="android.support.v7.cardview:cardPreventCornerOverlap">@null</item>
+          <item name="android.support.v7.cardview:cardUseCompatPadding">@null</item>
+          <item name="android.support.v7.cardview:contentPadding">@null</item>
+          <item name="android.support.v7.cardview:contentPaddingBottom">@null</item>
+          <item name="android.support.v7.cardview:contentPaddingLeft">@null</item>
+          <item name="android.support.v7.cardview:contentPaddingRight">@null</item>
+          <item name="android.support.v7.cardview:contentPaddingTop">@null</item>
+        </style>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
 </resources>
