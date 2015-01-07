@@ -202,6 +202,10 @@
     <!-- @class android.view.SurfaceView -->
     <style name="View.SurfaceView"/>
 
+      <!-- VideoView --><!-- API 1 -->
+      <!-- @class android.widget.VideoView -->
+      <style name="View.SurfaceView.VideoView"/>
+
       <!-- GLSurfaceView --><!-- API 3 -->
       <!-- @class android.opengl.GLSurfaceView -->
       <style name="View.SurfaceView.GLSurfaceView"/>
