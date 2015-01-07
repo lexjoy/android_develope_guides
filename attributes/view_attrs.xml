@@ -451,6 +451,18 @@
           <item name="android:fastScrollEnabled">@null</item>
           <item name="android:smoothScrollbar">@null</item>
         </style>
+
+          <!-- GridView --><!-- API 1 -->
+          <!-- @class android.widget.GridView -->
+          <style name="View.ViewGroup.AdapterView.AbsListView.GridView">
+            <!-- API 1 -->
+            <item name="android:columnWidth">@null</item>
+            <item name="android:gravity">@null</item>
+            <item name="android:horizontalSpacing">@null</item>
+            <item name="android:numColumns">@null</item>
+            <item name="android:stretchMode">@null</item>
+            <item name="android:verticalSpacing">@null</item>
+          </style>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AbsListView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx AdapterView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
