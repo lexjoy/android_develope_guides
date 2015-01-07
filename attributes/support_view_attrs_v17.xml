@@ -15,9 +15,14 @@
 
     <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
       <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
-        <!-- BaseCardView -->
-        <!-- @class 	android.support.v17.leanback.widget.BaseCardView -->
+        <!-- BaseCardView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx BaseCardView :start xxxxxxx -->
+        <!-- @class android.support.v17.leanback.widget.BaseCardView -->
         <style name="View.ViewGroup.FrameLayout.BaseCardView_v17"/>
+
+          <!-- ImageCardView -->
+          <!-- @class android.support.v17.leanback.widget.ImageCardView -->
+          <style name="View.ViewGroup.FrameLayout.BaseCardView_v17.ImageCardView_v17"/>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx BaseCardView :end xxxxxxx -->
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
