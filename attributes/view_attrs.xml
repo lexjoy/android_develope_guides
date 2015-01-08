@@ -775,6 +775,10 @@
         <item name="android:gravity">@null</item>
         <item name="android:ignoreGravity">@null</item>
       </style>
+
+        <!-- DialerFilter --><!-- API 1 -->
+        <!-- @class android.widget.DialerFilter -->
+        <style name="View.ViewGroup.RelativeLayout.DialerFilter">
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RelativeLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
