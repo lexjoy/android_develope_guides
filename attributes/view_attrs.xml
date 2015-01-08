@@ -712,6 +712,10 @@
         <item name="android:measureWithLargestChild">@null</item>
       </style>
 
+        <!-- NumberPicker --><!-- API 11 -->
+        <!-- @class android.widget.NumberPicker -->
+        <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
+
         <!-- ActionMenuView --><!-- API 21 -->
         <!-- @class android.widget.ActionMenuView -->
         <style name="View.ViewGroup.LinearLayout.ActionMenuView"/>
