@@ -3,13 +3,25 @@
 
   <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
     <!-- Margin --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :start xxxxxxx -->
+      <!-- GridLayout -->
+      <!-- @class android.support.v7.widget.GridLayout.LayoutParams -->
+      <style name="ViewGroup.Margin.GridLayout_v7">
+        <item name="layout_column">@null</item>
+        <item name="layout_columnSpan">@null</item>
+        <item name="layout_columnWeight">@null</item>
+        <item name="layout_gravity">@null</item>
+        <item name="layout_row">@null</item>
+        <item name="layout_rowSpan">@null</item>
+        <item name="layout_rowWeight">@null</item>
+      </style>
+
       <!-- ActionBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :start xxxxxxx -->
       <!-- @class android.support.v7.app.ActionBar.LayoutParams -->
-      <style name="ViewGroup.Margin.ActionBar"/>
+      <style name="ViewGroup.Margin.ActionBar_v7"/>
 
         <!-- Toolbar -->
         <!-- @class android.support.v7.widget.Toolbar.LayoutParams -->
-        <style name="ViewGroup.Margin.ActionBar.Toolbar"/>
+        <style name="ViewGroup.Margin.ActionBar_v7.Toolbar_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
