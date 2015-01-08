@@ -780,6 +780,10 @@
         <!-- @class android.widget.DialerFilter -->
         <style name="View.ViewGroup.RelativeLayout.DialerFilter">
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RelativeLayout :end xxxxxxx -->
+
+      <!-- TvView --><!-- API 21 -->
+      <!-- @class android.media.tv.TvView -->
+      <style name="View.ViewGroup.TvView"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
