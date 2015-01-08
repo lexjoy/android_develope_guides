@@ -1,6 +1,10 @@
 <resources>
 
   <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+    <!-- ViewPager -->
+    <!-- @class android.support.v4.view.ViewPager.LayoutParams -->
+    <style name="ViewGroup.ViewPager"/>
+
     <!-- Margin --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :start xxxxxxx -->
       <!-- DrawerLayout -->
       <!-- @class android.support.v4.widget.DrawerLayout.LayoutParams -->
