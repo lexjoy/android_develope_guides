@@ -767,6 +767,15 @@
         <!-- @class android.widget.ActionMenuView -->
         <style name="View.ViewGroup.LinearLayout.ActionMenuView"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayout :end xxxxxxx -->
+
+      <!-- RelativeLayout --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxx RelativeLayout :start xxxxxxx -->
+      <!-- @class android.widget.RelativeLayout -->
+      <style name="View.ViewGroup.RelativeLayout">
+        <!-- API 1 -->
+        <item name="android:gravity">@null</item>
+        <item name="android:ignoreGravity">@null</item>
+      </style>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RelativeLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
     <!-- KeyboardView --><!-- API 3 -->
