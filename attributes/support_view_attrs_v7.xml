@@ -56,7 +56,11 @@
 
         <!-- ActionMenuView -->
         <!-- @class android.support.v7.widget.ActionMenuView -->
-        <style name="View.ViewGroup.FrameLayout.ActionMenuView_v7"/>
+        <style name="View.ViewGroup.FrameLayout.LinearLayoutCompat_v7.ActionMenuView_v7"/>
+
+        <!-- SearchView -->
+        <!-- android.support.v7.widget.SearchView -->
+        <style name="View.ViewGroup.FrameLayout.LinearLayoutCompat_v7.SearchView_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
