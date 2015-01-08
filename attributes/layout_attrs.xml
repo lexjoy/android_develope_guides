@@ -42,6 +42,10 @@
         <item name="android:layout_weight">@null</item>
       </style>
 
+        <!-- RadioGroup --><!-- API 1 -->
+        <!-- @class android.widget.RadioGroup.LayoutParams -->
+        <style name="ViewGroup.Margin.LinearLayout.RadioGroup"/>
+
         <!-- ActionMenuView --><!-- API 21 -->
         <!-- @class android.widget.ActionMenuView.LayoutParams -->
         <style name="ViewGroup.Margin.LinearLayout.ActionMenuView"/>
