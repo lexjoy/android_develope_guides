@@ -31,6 +31,10 @@
         <!-- GridLayoutManager -->
         <!-- @class android.support.v7.widget.GridLayoutManager.LayoutParams -->
         <style name="ViewGroup.Margin.RecyclerView_v7.GridLayoutManager_v7"/>
+
+        <!-- StaggeredGridLayoutManager -->
+        <!-- @class android.support.v7.widget.StaggeredGridLayoutManager.LayoutParams -->
+        <style name="ViewGroup.Margin.RecyclerView_v7.StaggeredGridLayoutManager_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :end xxxxxxx -->
 
       <!-- ActionBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :start xxxxxxx -->
