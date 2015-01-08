@@ -15,11 +15,16 @@
         <item name="layout_rowWeight">@null</item>
       </style>
 
-      <!-- LinearLayoutCompat -->
+      <!-- LinearLayoutCompat --><!-- xxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :start xxxxxxx -->
       <!-- @class android.support.v7.widget.LinearLayoutCompat.LayoutParams -->
       <style name="ViewGroup.Margin.LinearLayoutCompat_v7"/>
 
-      <!-- ActionBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :start xxxxxxx -->
+        <!-- ActionMenuView -->
+        <!-- @class android.support.v7.widget.ActionMenuView.LayoutParams -->
+        <style name="ViewGroup.Margin.LinearLayoutCompat_v7.ActionMenuView_v7"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :end xxxxxxx -->
+
+      <!-- ActionBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :start xxxxxxx -->
       <!-- @class android.support.v7.app.ActionBar.LayoutParams -->
       <style name="ViewGroup.Margin.ActionBar_v7"/>
 
