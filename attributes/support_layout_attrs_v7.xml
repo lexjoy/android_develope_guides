@@ -1,0 +1,12 @@
+
+<resources>
+
+  <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+    <!-- Margin --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :start xxxxxxx -->
+      <!-- ActionBar -->
+      <!-- @class android.support.v7.app.ActionBar.LayoutParams -->
+      <style name="ViewGroup.Margin.ActionBar"/>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
+  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
+
+</resources>
