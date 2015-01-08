@@ -723,6 +723,19 @@
         <!-- @class android.widget.NumberPicker -->
         <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
 
+        <!-- SearchView --><!-- API 11 -->
+        <!-- @class android.widget.SearchView -->
+        <style name="View.ViewGroup.LinearLayout.SearchView">
+          <!-- API 1 -->
+          <item name="android:imeOptions">@null</item>
+          <item name="android:inputType">@null</item>
+          <item name="android:maxWidth">@null</item>
+
+          <!-- API 11 -->
+          <item name="android:iconifiedByDefault">@null</item>
+          <item name="android:queryHint">@null</item>
+        </style>
+
         <!-- ActionMenuView --><!-- API 21 -->
         <!-- @class android.widget.ActionMenuView -->
         <style name="View.ViewGroup.LinearLayout.ActionMenuView"/>
