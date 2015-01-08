@@ -48,6 +48,10 @@
         <!-- HorizontalGridView -->
         <!-- @class android.support.v17.leanback.widget.HorizontalGridView -->
         <style name="View.ViewGroup.RecyclerView_v7.HorizontalGridView_v17"/>
+
+        <!-- VerticalGridView -->
+        <!-- @class	android.support.v17.leanback.widget.VerticalGridView -->
+        <style name="View.ViewGroup.RecyclerView_v7.VerticalGridView_v17"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView_v7 :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
