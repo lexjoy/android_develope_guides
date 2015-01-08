@@ -32,6 +32,10 @@
         <item name="useDefaultMargins">@null</item>
       </style>
 
+      <!-- Toolbar -->
+      <!-- @class android.support.v7.widget.Toolbar -->
+      <style name="View.ViewGroup.Toolbar_v7"/>
+
       <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
         <!-- CardView -->
         <!-- @class android.support.v7.widget.CardView -->
