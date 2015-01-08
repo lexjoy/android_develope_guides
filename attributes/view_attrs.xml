@@ -719,6 +719,16 @@
           <item name="android:checkedButton">@null</item>
         </style>
 
+        <!-- TabWidget --><!-- API 1 -->
+        <!-- @class android.widget.TabWidget -->
+        <style name="View.ViewGroup.LinearLayout.TabWidget">
+          <!-- API 1 -->
+          <item name="android:divider">@null</item>
+          <item name="android:tabStripEnabled">@null</item>
+          <item name="android:tabStripLeft">@null</item>
+          <item name="android:tabStripRight">@null</item>
+        </style>
+
         <!-- NumberPicker --><!-- API 11 -->
         <!-- @class android.widget.NumberPicker -->
         <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
