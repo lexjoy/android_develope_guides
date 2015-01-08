@@ -27,6 +27,10 @@
       <!-- RecyclerView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :start xxxxxxx -->
       <!-- @class android.support.v7.widget.RecyclerView.LayoutParams -->
       <style name="ViewGroup.Margin.RecyclerView_v7"/>
+
+        <!-- GridLayoutManager -->
+        <!-- @class android.support.v7.widget.GridLayoutManager.LayoutParams -->
+        <style name="ViewGroup.Margin.RecyclerView_v7.GridLayoutManager_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :end xxxxxxx -->
 
       <!-- ActionBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :start xxxxxxx -->
