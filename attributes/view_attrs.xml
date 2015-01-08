@@ -712,6 +712,10 @@
         <item name="android:measureWithLargestChild">@null</item>
       </style>
 
+        <!-- RadioGroup --><!-- API 1 -->
+        <!-- @class android.widget.RadioGroup -->
+        <style name="View.ViewGroup.LinearLayout.RadioGroup"/>
+
         <!-- NumberPicker --><!-- API 11 -->
         <!-- @class android.widget.NumberPicker -->
         <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
