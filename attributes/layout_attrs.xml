@@ -50,6 +50,14 @@
         <!-- @class android.widget.TableLayout.LayoutParams -->
         <style name="ViewGroup.Margin.LinearLayout.TableLayout"/>
 
+        <!-- TableRow --><!-- API 1 -->
+        <!-- @class android.widget.TableRow.LayoutParams -->
+        <style name="ViewGroup.Margin.LinearLayout.TableRow">
+          <!-- API 1 -->
+          <item name="android:layout_column">@null</item>
+          <item name="android:layout_span">@null</item>
+        </style>
+
         <!-- ActionMenuView --><!-- API 21 -->
         <!-- @class android.widget.ActionMenuView.LayoutParams -->
         <style name="ViewGroup.Margin.LinearLayout.ActionMenuView"/>
