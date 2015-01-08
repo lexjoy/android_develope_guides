@@ -12,6 +12,10 @@
     <!-- @class android.widget.AbsListView.LayoutParams -->
     <style name="ViewGroup.AbsListView"/>
 
+    <!-- WindowManager --><!-- API 1 -->
+    <!-- @class android.view.WindowManager.LayoutParams -->
+    <style name="ViewGroup.WindowManager"/>
+
     <!-- Margin --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :start xxxxxxx -->
     <!-- @class android.view.ViewGroup.MarginLayoutParams -->
     <style name="ViewGroup.Margin">
@@ -27,7 +31,7 @@
     </style>
 
       <!-- RelativeLayout --><!-- API 1 -->
-      <!-- @class 	android.widget.RelativeLayout.LayoutParams -->
+      <!-- @class android.widget.RelativeLayout.LayoutParams -->
       <style name="ViewGroup.Margin.RelativeLayout">
         <!-- API 1 -->
         <item name="android:layout_above">@null</item>
