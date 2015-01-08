@@ -26,6 +26,37 @@
       <item name="android:layout_marginStart">@null</item>
     </style>
 
+      <!-- RelativeLayout --><!-- API 1 -->
+      <!-- @class 	android.widget.RelativeLayout.LayoutParams -->
+      <style name="ViewGroup.Margin.RelativeLayout">
+        <!-- API 1 -->
+        <item name="android:layout_above">@null</item>
+        <item name="android:layout_alignBaseline">@null</item>
+        <item name="android:layout_alignBottom">@null</item>
+        <item name="android:layout_alignLeft">@null</item>
+        <item name="android:layout_alignParentBottom">@null</item>
+        <item name="android:layout_alignParentLeft">@null</item>
+        <item name="android:layout_alignParentRight">@null</item>
+        <item name="android:layout_alignParentTop">@null</item>
+        <item name="android:layout_alignRight">@null</item>
+        <item name="android:layout_alignTop">@null</item>
+        <item name="android:layout_alignWithParentIfMissing">@null</item>
+        <item name="android:layout_below">@null</item>
+        <item name="android:layout_centerHorizontal">@null</item>
+        <item name="android:layout_centerInParent">@null</item>
+        <item name="android:layout_centerVertical">@null</item>
+        <item name="android:layout_toLeftOf">@null</item>
+        <item name="android:layout_toRightOf">@null</item>
+
+        <!-- API 17 -->
+        <item name="android:layout_alignEnd">@null</item>
+        <item name="android:layout_alignParentEnd">@null</item>
+        <item name="android:layout_alignParentStart">@null</item>
+        <item name="android:layout_alignStart">@null</item>
+        <item name="android:layout_toEndOf">@null</item>
+        <item name="android:layout_toStartOf">@null</item>
+      </style>
+
       <!-- FrameLayout --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
       <!-- @class android.widget.FrameLayout.LayoutParams -->
       <style name="ViewGroup.Margin.FrameLayout">
