@@ -25,6 +25,14 @@
       <item name="android:layout_marginEnd">@null</item>
       <item name="android:layout_marginStart">@null</item>
     </style>
+
+      <!-- FrameLayout --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
+      <!-- @class android.widget.FrameLayout.LayoutParams -->
+      <style name="ViewGroup.Margin.FrameLayout">
+        <!-- API 1 -->
+        <item name="android:layout_gravity">@null</item>
+      </style>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
