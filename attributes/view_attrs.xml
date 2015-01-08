@@ -729,6 +729,15 @@
           <item name="android:tabStripRight">@null</item>
         </style>
 
+        <!-- TableLayout --><!-- API 1 -->
+        <!-- @class android.widget.TableLayout -->
+        <style name="View.ViewGroup.LinearLayout.TableLayout">
+          <!-- API 1 -->
+          <item name="android:collapseColumns">@null</item>
+          <item name="android:shrinkColumns">@null</item>
+          <item name="android:stretchColumns">@null</item>
+        </style>
+
         <!-- NumberPicker --><!-- API 11 -->
         <!-- @class android.widget.NumberPicker -->
         <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
