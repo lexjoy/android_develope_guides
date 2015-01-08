@@ -35,12 +35,16 @@
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
 
       <!-- LinearLayout --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxx LinearLayout :start xxxxxxx -->
-      <!-- @class 	android.widget.LinearLayout.LayoutParams -->
+      <!-- @class android.widget.LinearLayout.LayoutParams -->
       <style name="ViewGroup.Margin.LinearLayout">
         <!-- API 1 -->
         <item name="android:layout_gravity">@null</item>
         <item name="android:layout_weight">@null</item>
       </style>
+
+        <!-- ActionMenuView --><!-- API 21 -->
+        <!-- @class android.widget.ActionMenuView.LayoutParams -->
+        <style name="ViewGroup.Margin.LinearLayout.ActionMenuView"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
