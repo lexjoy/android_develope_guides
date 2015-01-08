@@ -738,6 +738,10 @@
           <item name="android:stretchColumns">@null</item>
         </style>
 
+        <!-- TableRow --><!-- API 1 -->
+        <!-- @class android.widget.TableRow -->
+        <style name="View.ViewGroup.LinearLayout.TableRow"/>
+
         <!-- NumberPicker --><!-- API 11 -->
         <!-- @class android.widget.NumberPicker -->
         <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
