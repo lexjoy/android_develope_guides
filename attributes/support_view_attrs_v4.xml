@@ -23,6 +23,10 @@
       <!-- SwipeRefreshLayout -->
       <!-- @class android.support.v4.widget.SwipeRefreshLayout -->
       <style name="View.ViewGroup.SwipeRefreshLayout_v4"/>
+
+      <!-- ViewPager -->
+      <!-- @class android.support.v4.view.ViewPager -->
+      <style name="View.ViewGroup.ViewPager_v4"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
