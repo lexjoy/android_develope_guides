@@ -24,6 +24,11 @@
         <style name="ViewGroup.Margin.LinearLayoutCompat_v7.ActionMenuView_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :end xxxxxxx -->
 
+      <!-- RecyclerView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :start xxxxxxx -->
+      <!-- @class android.support.v7.widget.RecyclerView.LayoutParams -->
+      <style name="ViewGroup.Margin.RecyclerView_v7"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :end xxxxxxx -->
+
       <!-- ActionBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ActionBar :start xxxxxxx -->
       <!-- @class android.support.v7.app.ActionBar.LayoutParams -->
       <style name="ViewGroup.Margin.ActionBar_v7"/>
