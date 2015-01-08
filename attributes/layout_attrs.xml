@@ -1,11 +1,16 @@
 <resources>
 
   <!-- ViewGroup --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+  <!-- @class android.view.ViewGroup.LayoutParams -->
   <style name="ViewGroup">
     <!-- API 1 -->
     <item name="android:layout_height">@null</item>
     <item name="android:layout_width">@null</item>
   </style>
+
+    <!-- AbsListView --><!-- API 1 -->
+    <!-- @class android.widget.AbsListView.LayoutParams -->
+    <style name="ViewGroup.AbsListView">
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
 </resources>
