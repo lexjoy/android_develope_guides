@@ -1,0 +1,457 @@
+<resources>
+
+  <style name="theme_attrs">
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 1 :start xxxxxx -->
+    <item name="android:colorForeground">@null</item>
+    <item name="android:colorForegroundInverse">@null</item>
+    <item name="android:colorBackground">@null</item>
+    <item name="android:colorBackgroundCacheHint">@null</item>
+
+    <item name="android:disabledAlpha">@null</item>
+    <item name="android:backgroundDimAmount">@null</item>
+
+    <!-- Text styles -->
+    <item name="android:textAppearance">@null</item>
+    <item name="android:textAppearanceInverse">@null</item>
+
+    <item name="android:textColorPrimary">@null</item>
+    <item name="android:textColorSecondary">@null</item>
+    <item name="android:textColorTertiary">@null</item>
+    <item name="android:textColorPrimaryInverse">@null</item>
+    <item name="android:textColorSecondaryInverse">@null</item>
+    <item name="android:textColorTertiaryInverse">@null</item>
+    <item name="android:textColorPrimaryActivated">@null</item>
+    <item name="android:textColorSecondaryActivated">@null</item>
+    <item name="android:textColorPrimaryDisableOnly">@null</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@null</item>
+    <item name="android:textColorPrimaryNoDisable">@null</item>
+    <item name="android:textColorSecondaryNoDisable">@null</item>
+    <item name="android:textColorPrimaryInverseNoDisable">@null</item>
+    <item name="android:textColorSecondaryInverseNoDisable">@null</item>
+    <item name="android:textColorHint">@null</item>
+    <item name="android:textColorHintInverse">@null</item>
+    <item name="android:textColorSearchUrl">@null</item>
+    <item name="android:textColorHighlight">@null</item>
+    <item name="android:textColorLink">@null</item>
+
+    <item name="android:textAppearanceLarge">@null</item>
+    <item name="android:textAppearanceMedium">@null</item>
+    <item name="android:textAppearanceSmall">@null</item>
+    <item name="android:textAppearanceLargeInverse">@null</item>
+    <item name="android:textAppearanceMediumInverse">@null</item>
+    <item name="android:textAppearanceSmallInverse">@null</item>
+    <item name="android:textAppearanceSearchResultTitle">@null</item>
+    <item name="android:textAppearanceSearchResultSubtitle">@null</item>
+
+    <item name="android:textAppearanceEasyCorrectSuggestion">@null</item>
+    <item name="android:textAppearanceMisspelledSuggestion">@null</item>
+    <item name="android:textAppearanceAutoCorrectionSuggestion">@null</item>
+
+    <item name="android:textAppearanceButton">@null</item>
+
+    <item name="android:candidatesTextStyleSpans">@null</item>
+
+    <item name="android:textCheckMark">@null</item>
+    <item name="android:textCheckMarkInverse">@null</item>
+
+    <!-- Button styles -->
+    <item name="android:buttonStyle">@null</item>
+    <item name="android:buttonStyleSmall">@null</item>
+    <item name="android:buttonStyleInset">@null</item>
+    <item name="android:buttonStyleToggle">@null</item>
+
+    <!-- List attributes -->
+    <item name="android:listPreferredItemHeight">@null</item>
+    <item name="android:dropdownListPreferredItemHeight">@null</item>
+
+    <!-- @hide -->
+    <item name="android:searchResultListItemHeight">@null</item>
+    <item name="android:listDivider">@null</item>
+    <item name="android:listSeparatorTextViewStyle">@null</item>
+
+    <item name="android:listChoiceIndicatorSingle">@null</item>
+    <item name="android:listChoiceIndicatorMultiple">@null</item>
+
+    <item name="android:expandableListPreferredItemPaddingLeft">@null</item>
+    <item name="android:expandableListPreferredChildPaddingLeft">@null</item>
+
+    <item name="android:expandableListPreferredItemIndicatorLeft">@null</item>
+    <item name="android:expandableListPreferredItemIndicatorRight">@null</item>
+    <item name="android:expandableListPreferredChildIndicatorLeft">@null</item>
+    <item name="android:expandableListPreferredChildIndicatorRight">@null</item>
+    <item name="android:findOnPageNextDrawable">@null</item>
+    <item name="android:findOnPagePreviousDrawable">@null</item>
+
+    <!-- Gallery attributes -->
+    <item name="android:galleryItemBackground">@null</item>
+
+    <!-- Window attributes -->
+    <item name="android:windowBackground">@null</item>
+    <item name="android:windowBackgroundFallback">@null</item>
+    <item name="android:windowFrame">@null</item>
+    <item name="android:windowNoTitle">@null</item>
+    <item name="android:windowFullscreen">@null</item>
+    <item name="android:windowIsFloating">@null</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowShowWallpaper">@null</item>
+    <item name="android:windowTitleStyle">@null</item>
+    <item name="android:windowTitleSize">@null</item>
+    <item name="android:windowTitleBackgroundStyle">@null</item>
+    <item name="android:windowAnimationStyle">@null</item>
+    <item name="android:windowSoftInputMode">@null</item>
+    <item name="android:windowActionBarFullscreenDecorLayout">@null</item>
+
+    <!-- Define these here; ContextThemeWrappers around themes that define them should
+         always clear these values. -->
+    <item name="android:windowFixedWidthMajor">@null</item>
+    <item name="android:windowFixedWidthMinor">@null</item>
+    <item name="android:windowFixedHeightMajor">@null</item>
+    <item name="android:windowFixedHeightMinor">@null</item>
+
+    <!-- Dialog attributes -->
+    <item name="android:dialogTitleIconsDecorLayout">@null</item>
+    <item name="android:dialogCustomTitleDecorLayout">@null</item>
+    <item name="android:dialogTitleDecorLayout">@null</item>
+
+    <!-- AlertDialog attributes -->
+    <item name="android:alertDialogStyle">@null</item>
+    <item name="android:alertDialogCenterButtons">@null</item>
+
+    <!-- Toast attributes -->
+    <item name="android:toastFrameBackground">@null</item>
+
+    <!-- Panel attributes -->
+    <item name="android:panelBackground">@null</item>
+    <item name="android:panelFullBackground">@null</item>
+    <!-- These three attributes do not seems to be used by the framework. Declared public though -->
+    <item name="android:panelColorBackground">@null</item>
+    <item name="android:panelColorForeground">@null</item>
+    <item name="android:panelTextAppearance">@null</item>
+
+    <item name="android:panelMenuIsCompact">@null</item>
+    <item name="android:panelMenuListWidth">@null</item>
+
+    <!-- Scrollbar attributes -->
+    <item name="android:scrollbarFadeDuration">@null</item>
+    <item name="android:scrollbarDefaultDelayBeforeFade">@null</item>
+    <item name="android:scrollbarSize">@null</item>
+    <item name="android:scrollbarThumbHorizontal">@null</item>
+    <item name="android:scrollbarThumbVertical">@null</item>
+    <item name="android:scrollbarTrackHorizontal">@null</item>
+    <item name="android:scrollbarTrackVertical">@null</item>
+
+    <!-- Text selection handle attributes -->
+    <item name="android:textSelectHandleLeft">@null</item>
+    <item name="android:textSelectHandleRight">@null</item>
+    <item name="android:textSelectHandle">@null</item>
+    <item name="android:textSelectHandleWindowStyle">@null</item>
+
+    <!-- Widget styles -->
+    <item name="android:absListViewStyle">@null</item>
+    <item name="android:autoCompleteTextViewStyle">@null</item>
+    <item name="android:checkboxStyle">@null</item>
+    <item name="android:dropDownListViewStyle">@null</item>
+    <item name="android:editTextStyle">@null</item>
+    <item name="android:expandableListViewStyle">@null</item>
+    <item name="android:expandableListViewWhiteStyle">@null</item>
+    <item name="android:galleryStyle">@null</item>
+    <item name="android:gestureOverlayViewStyle">@null</item>
+    <item name="android:gridViewStyle">@null</item>
+    <item name="android:imageButtonStyle">@null</item>
+    <item name="android:imageWellStyle">@null</item>
+    <item name="android:listViewStyle">@null</item>
+    <item name="android:listViewWhiteStyle">@null</item>
+    <item name="android:popupWindowStyle">@null</item>
+    <item name="android:progressBarStyle">@null</item>
+    <item name="android:progressBarStyleHorizontal">@null</item>
+    <item name="android:progressBarStyleSmall">@null</item>
+    <item name="android:progressBarStyleSmallTitle">@null</item>
+    <item name="android:progressBarStyleLarge">@null</item>
+    <item name="android:progressBarStyleInverse">@null</item>
+    <item name="android:progressBarStyleSmallInverse">@null</item>
+    <item name="android:progressBarStyleLargeInverse">@null</item>
+    <item name="android:seekBarStyle">@null</item>
+    <item name="android:ratingBarStyle">@null</item>
+    <item name="android:ratingBarStyleIndicator">@null</item>
+    <item name="android:ratingBarStyleSmall">@null</item>
+    <item name="android:radioButtonStyle">@null</item>
+    <item name="android:scrollViewStyle">@null</item>
+    <item name="android:spinnerStyle">@null</item>
+    <item name="android:starStyle">@null</item>
+    <item name="android:tabWidgetStyle">@null</item>
+    <item name="android:textViewStyle">@null</item>
+    <item name="android:errorMessageBackground">@null</item>
+    <item name="android:errorMessageAboveBackground">@null</item>
+    <item name="android:webTextViewStyle">@null</item>
+    <item name="android:webViewStyle">@null</item>
+    <item name="android:dropDownItemStyle">@null</item>
+    <item name="android:spinnerDropDownItemStyle">@null</item>
+    <item name="android:spinnerItemStyle">@null</item>
+    <item name="android:dropDownHintAppearance">@null</item>
+    <item name="android:keyboardViewStyle">@null</item>
+    <item name="android:quickContactBadgeOverlay">@null</item>
+    <item name="android:quickContactBadgeStyleWindowSmall">@null</item>
+    <item name="android:quickContactBadgeStyleWindowMedium">@null</item>
+    <item name="android:quickContactBadgeStyleWindowLarge">@null</item>
+    <item name="android:quickContactBadgeStyleSmallWindowSmall">@null</item>
+    <item name="android:quickContactBadgeStyleSmallWindowMedium">@null</item>
+    <item name="android:quickContactBadgeStyleSmallWindowLarge">@null</item>
+    <item name="android:activityChooserViewStyle">@null</item>
+    <item name="android:fragmentBreadCrumbsStyle">@null</item>
+
+    <!-- Preference styles -->
+    <item name="android:preferenceScreenStyle">@null</item>
+    <item name="android:preferenceActivityStyle">@null</item>
+    <item name="android:preferenceFragmentStyle">@null</item>
+    <item name="android:preferenceCategoryStyle">@null</item>
+    <item name="android:preferenceStyle">@null</item>
+    <item name="android:preferenceInformationStyle">@null</item>
+    <item name="android:checkBoxPreferenceStyle">@null</item>
+    <item name="android:seekBarPreferenceStyle">@null</item>
+    <item name="android:yesNoPreferenceStyle">@null</item>
+    <item name="android:dialogPreferenceStyle">@null</item>
+    <item name="android:editTextPreferenceStyle">@null</item>
+    <item name="android:ringtonePreferenceStyle">@null</item>
+    <item name="android:preferenceLayoutChild">@null</item>
+    <item name="android:preferencePanelStyle">@null</item>
+    <item name="android:preferenceHeaderPanelStyle">@null</item>
+    <item name="android:preferenceListStyle">@null</item>
+    <item name="android:preferenceFragmentListStyle">@null</item>
+    <item name="android:preferenceFragmentPaddingSide">@null</item>
+
+    <!-- Search widget styles -->
+    <item name="android:searchWidgetCorpusItemBackground">@null</item>
+
+    <!-- Action bar styles -->
+    <item name="android:actionModePopupWindowStyle">@null</item>
+
+    <!-- SearchView attributes -->
+    <item name="android:searchDialogTheme">@null</item>
+
+    <!-- PreferenceFrameLayout attributes -->
+    <item name="android:preferenceFrameLayoutStyle">@null</item>
+
+    <!-- NumberPicker style-->
+    <item name="android:numberPickerStyle">@null</item>
+
+    <!-- Pointer style -->
+    <item name="android:pointerStyle">@null</item>
+
+    <!-- Lighting and shadow properties -->
+    <item name="android:lightY">@null</item>
+    <item name="android:lightZ">@null</item>
+    <item name="android:lightRadius">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 1 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 11 :start xxxxxx -->
+    <!-- Text styles -->
+    <item name="android:textColorHighlightInverse">@null</item>
+    <item name="android:textColorLinkInverse">@null</item>
+    <item name="android:textColorAlertDialogListItem">@null</item>
+
+    <item name="android:editTextColor">@null</item>
+    <item name="android:editTextBackground">@null</item>
+
+    <item name="android:textAppearanceLargePopupMenu">@null</item>
+    <item name="android:textAppearanceSmallPopupMenu">@null</item>
+
+    <!-- Button styles -->
+    <item name="android:selectableItemBackground">@null</item>
+    <item name="android:borderlessButtonStyle">@null</item>
+    <item name="android:homeAsUpIndicator">@null</item>
+
+    <!-- List attributes -->
+    <item name="android:listChoiceBackgroundIndicator">@null</item>
+
+    <item name="android:activatedBackgroundIndicator">@null</item>
+
+    <item name="android:listDividerAlertDialog">@null</item>
+
+    <!-- Window attributes -->
+    <item name="android:windowActionBar">@null</item>
+    <item name="android:windowActionModeOverlay">@null</item>
+    <item name="android:windowCloseOnTouchOutside">@null</item>
+
+    <!-- Dialog attributes -->
+    <item name="android:dialogTheme">@null</item>
+
+    <!-- AlertDialog attributes -->
+    <item name="android:alertDialogTheme">@null</item>
+    <item name="android:alertDialogIcon">@null</item>
+
+    <!-- Text selection handle attributes -->
+    <item name="android:textEditPasteWindowLayout">@null</item>
+    <item name="android:textEditNoPasteWindowLayout">@null</item>
+    <item name="android:textEditSidePasteWindowLayout">@null</item>
+    <item name="android:textEditSideNoPasteWindowLayout">@null</item>
+
+    <!-- Widget styles -->
+    <item name="android:horizontalScrollViewStyle">@null</item>
+    <item name="android:dropDownSpinnerStyle">@null</item>
+    <item name="android:listPopupWindowStyle">@null</item>
+    <item name="android:popupMenuStyle">@null</item>
+
+    <!-- Preference styles -->
+    <item name="android:detailsElementBackground">@null</item>
+
+    <!-- Action bar styles -->
+    <item name="android:actionDropDownStyle">@null</item>
+    <item name="android:actionButtonStyle">@null</item>
+    <item name="android:actionOverflowButtonStyle">@null</item>
+    <item name="android:actionModeBackground">@null</item>
+    <item name="android:actionModeCloseDrawable">@null</item>
+    <item name="android:actionModeCutDrawable">@null</item>
+    <item name="android:actionModeCopyDrawable">@null</item>
+    <item name="android:actionModePasteDrawable">@null</item>
+    <item name="android:actionBarTabStyle">@null</item>
+    <item name="android:actionBarTabBarStyle">@null</item>
+    <item name="android:actionBarTabTextStyle">@null</item>
+    <item name="android:actionModeCloseButtonStyle">@null</item>
+    <item name="android:actionBarStyle">@null</item>
+    <item name="android:actionBarSize">@null</item>
+    <item name="android:actionMenuTextAppearance">@null</item>
+    <item name="android:actionMenuTextColor">@null</item>
+
+    <item name="android:dividerVertical">@null</item>
+    <item name="android:dividerHorizontal">@null</item>
+    <item name="android:buttonBarStyle">@null</item>
+    <item name="android:buttonBarButtonStyle">@null</item>
+    <item name="android:segmentedButtonStyle">@null</item>
+
+    <!-- CalendarView style-->
+    <item name="android:calendarViewStyle">@null</item>
+
+    <item name="android:fastScrollThumbDrawable">@null</item>
+    <item name="android:fastScrollTrackDrawable">@null</item>
+    <item name="android:fastScrollPreviewBackgroundRight">@null</item>
+    <item name="android:fastScrollPreviewBackgroundLeft">@null</item>
+    <item name="android:fastScrollOverlayPosition">@null</item>
+    <item name="android:fastScrollTextColor">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 11 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 12 :start xxxxxx -->
+    <!-- Text selection handle attributes -->
+    <item name="android:textCursorDrawable">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 12 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 14 :start xxxxxx -->
+    <item name="android:colorPressedHighlight">@null</item>
+    <item name="android:colorLongPressedHighlight">@null</item>
+    <item name="android:colorFocusedHighlight">@null</item>
+    <item name="android:colorMultiSelectHighlight">@null</item>
+    <item name="android:colorActivatedHighlight">@null</item>
+
+    <!-- List attributes -->
+    <item name="android:listPreferredItemHeightSmall">@null</item>
+    <item name="android:listPreferredItemHeightLarge">@null</item>
+    <item name="android:textAppearanceListItem">@null</item>
+    <item name="android:textAppearanceListItemSmall">@null</item>
+    <item name="android:listPreferredItemPaddingLeft">@null</item>
+    <item name="android:listPreferredItemPaddingRight">@null</item>
+
+    <!-- Text selection handle attributes -->
+    <item name="android:textSuggestionsWindowStyle">@null</item>
+    <item name="android:textEditSuggestionItemLayout">@null</item>
+
+    <!-- Preference styles -->
+    <item name="android:switchPreferenceStyle">@null</item>
+
+    <!-- Action bar styles -->
+    <item name="android:actionModeSplitBackground">@null</item>
+    <item name="android:actionModeSelectAllDrawable">@null</item>
+    <item name="android:actionModeStyle">@null</item>
+    <item name="android:actionBarSplitStyle">@null</item>
+    <item name="android:actionBarWidgetTheme">@null</item>
+    <item name="android:actionBarDivider">@null</item>
+    <item name="android:actionBarItemBackground">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 14 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 16 :start xxxxxx -->
+    <!-- Widget styles -->
+    <item name="android:mediaRouteButtonStyle">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 16 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 17 :start xxxxxx -->
+    <!-- List attributes -->
+    <item name="android:listPreferredItemPaddingStart">@null</item>
+    <item name="android:listPreferredItemPaddingEnd">@null</item>
+
+    <!-- Presentation attributes (introduced after API level 10 so does not
+         have a special old-style theme. -->
+    <item name="android:presentationTheme">@null</item>
+
+    <!-- Widget styles -->
+    <item name="android:checkedTextViewStyle">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 17 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 18 :start xxxxxx -->
+    <!-- Window attributes -->
+    <item name="android:windowOverscan">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 18 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 19 :start xxxxxx -->
+    <!-- Window attributes -->
+    <item name="android:windowTranslucentStatus">@null</item>
+    <item name="android:windowTranslucentNavigation">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 19 :end xxxxxx -->
+
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 21 :start xxxxxx -->
+    <item name="android:colorPrimaryDark">@null</item>
+    <item name="android:colorPrimary">@null</item>
+    <item name="android:colorControlActivated">@null</item>
+    <item name="android:colorControlNormal">@null</item>
+    <item name="android:colorControlHighlight">@null</item>
+    <item name="android:colorButtonNormal">@null</item>
+    <item name="android:colorEdgeEffect">@null</item>
+
+    <!-- Button styles -->
+    <item name="android:switchStyle">@null</item>
+
+    <item name="android:selectableItemBackgroundBorderless">@null</item>
+
+    <!-- List attributes -->
+    <item name="android:textAppearanceListItemSecondary">@null</item>
+
+    <!-- Window attributes -->
+    <item name="android:windowClipToOutline">@null</item>
+    <item name="android:windowDrawsSystemBarBackgrounds">@null</item>
+    <item name="android:statusBarColor">@null</item>
+    <item name="android:navigationBarColor">@null</item>
+    <item name="android:windowContentTransitions">@null</item>
+    <item name="android:windowActivityTransitions">@null</item>
+
+    <!-- Widget styles -->
+    <item name="android:fastScrollStyle">@null</item>
+
+    <!-- Action bar styles -->
+    <item name="android:actionOverflowMenuStyle">@null</item>
+    <item name="android:actionModeShareDrawable">@null</item>
+    <item name="android:actionModeFindDrawable">@null</item>
+    <item name="android:actionModeWebSearchDrawable">@null</item>
+    <item name="android:actionBarPopupTheme">@null</item>
+    <item name="android:actionBarTheme">@null</item>
+
+    <item name="android:toolbarStyle">@null</item>
+    <item name="android:buttonBarPositiveButtonStyle">@null</item>
+    <item name="android:buttonBarNegativeButtonStyle">@null</item>
+    <item name="android:buttonBarNeutralButtonStyle">@null</item>
+
+    <!-- SearchView attributes -->
+    <item name="android:searchViewStyle">@null</item>
+
+    <!-- TimePicker style -->
+    <item name="android:timePickerStyle">@null</item>
+
+    <!-- TimePicker dialog theme -->
+    <item name="android:timePickerDialogTheme">@null</item>
+
+    <!-- DatePicker dialog theme -->
+    <item name="android:datePickerDialogTheme">@null</item>
+
+    <!-- Lighting and shadow properties -->
+    <item name="android:ambientShadowAlpha">@null</item>
+    <item name="android:spotShadowAlpha">@null</item>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx API 21 :end xxxxxx -->
+  </style>
+
+</resources>
