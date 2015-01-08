@@ -742,6 +742,10 @@
         <!-- @class android.widget.TableRow -->
         <style name="View.ViewGroup.LinearLayout.TableRow"/>
 
+        <!-- ZoomControls --><!-- API 1 -->
+        <!-- @class android.widget.ZoomControls -->
+        <style name="View.ViewGroup.LinearLayout.ZoomControls"/>
+
         <!-- NumberPicker --><!-- API 11 -->
         <!-- @class android.widget.NumberPicker -->
         <style name="View.ViewGroup.LinearLayout.NumberPicker"/>
