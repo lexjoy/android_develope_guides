@@ -5,6 +5,10 @@
       <!-- DrawerLayout -->
       <!-- @class android.support.v4.widget.DrawerLayout.LayoutParams -->
       <style name="ViewGroup.Margin.DrawerLayout"/>
+
+      <!-- SlidingPaneLayout -->
+      <!-- @class android.support.v4.widget.SlidingPaneLayout.LayoutParams -->
+      <style name="ViewGroup.Margin.SlidingPaneLayout"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
