@@ -11,6 +11,10 @@
       <!-- DrawerLayout -->
       <!-- @class android.support.v4.widget.DrawerLayout -->
       <style name="View.ViewGroup.DrawerLayout_v4"/>
+
+      <!-- PagerTitleStrip -->
+      <!-- @class android.support.v4.view.PagerTitleStrip -->
+      <style name="View.ViewGroup.PagerTitleStrip_v4"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
