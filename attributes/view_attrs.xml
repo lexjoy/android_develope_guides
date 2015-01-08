@@ -714,7 +714,10 @@
 
         <!-- RadioGroup --><!-- API 1 -->
         <!-- @class android.widget.RadioGroup -->
-        <style name="View.ViewGroup.LinearLayout.RadioGroup"/>
+        <style name="View.ViewGroup.LinearLayout.RadioGroup">
+          <!-- API 1 -->
+          <item name="android:checkedButton">@null</item>
+        </style>
 
         <!-- NumberPicker --><!-- API 11 -->
         <!-- @class android.widget.NumberPicker -->
