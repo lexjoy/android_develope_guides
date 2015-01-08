@@ -10,7 +10,22 @@
 
     <!-- AbsListView --><!-- API 1 -->
     <!-- @class android.widget.AbsListView.LayoutParams -->
-    <style name="ViewGroup.AbsListView">
+    <style name="ViewGroup.AbsListView"/>
+
+    <!-- Margin --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :start xxxxxxx -->
+    <!-- @class android.view.ViewGroup.MarginLayoutParams -->
+    <style name="ViewGroup.Margin">
+      <!-- API 1 -->
+      <item name="android:layout_marginBottom">@null</item>
+      <item name="android:layout_marginLeft">@null</item>
+      <item name="android:layout_marginRight">@null</item>
+      <item name="android:layout_marginTop">@null</item>
+
+      <!-- API 17 -->
+      <item name="android:layout_marginEnd">@null</item>
+      <item name="android:layout_marginStart">@null</item>
+    </style>
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
 
 </resources>
