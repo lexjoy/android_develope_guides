@@ -14,6 +14,10 @@
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
     <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+      <!-- ShadowOverlayContainer -->
+      <!-- @class android.support.v17.leanback.widget.ShadowOverlayContainer -->
+      <style name="View.ViewGroup.ShadowOverlayContainer_v17"/>
+
       <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
         <!-- BaseCardView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx BaseCardView :start xxxxxxx -->
         <!-- @class android.support.v17.leanback.widget.BaseCardView -->
