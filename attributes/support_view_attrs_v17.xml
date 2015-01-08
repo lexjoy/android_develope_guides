@@ -44,6 +44,12 @@
         <style name="View.ViewGroup.LinearLayout.ListRowView_v17"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayout :end xxxxxxx -->
 
+      <!-- RelativeLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RelativeLayout :start xxxxxxx -->
+        <!-- SearchBar -->
+        <!-- @class android.support.v17.leanback.widget.SearchBar -->
+        <style name="View.ViewGroup.RelativeLayout.SearchBar_v17"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RelativeLayout :end xxxxxxx -->
+
       <!-- RecyclerView_v7 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView_v7 :start xxxxxxx -->
         <!-- HorizontalGridView -->
         <!-- @class android.support.v17.leanback.widget.HorizontalGridView -->
