@@ -105,6 +105,14 @@
       <item name="android:hand_minute">@null</item>
     </style>
 
+    <!-- ViewStub --><!-- API 1 -->
+    <!-- @class android.view.ViewStub -->
+    <style name="View.ViewStub">
+      <!-- API 1 -->
+      <item name="android:inflatedId">@null</item>
+      <item name="android:layout">@null</item>
+    </style>
+
     <!-- ImageView --><!-- API 1 --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ImageView :start xxxxxxx -->
     <!-- @class android.widget.ImageView -->
     <style name="View.ImageView">
