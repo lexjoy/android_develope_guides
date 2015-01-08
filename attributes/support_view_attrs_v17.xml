@@ -38,6 +38,10 @@
         <!-- ListRowHoverCardView -->
         <!-- @class android.support.v17.leanback.widget.ListRowHoverCardView -->
         <style name="View.ViewGroup.LinearLayout.ListRowHoverCardView_v17"/>
+
+        <!-- ListRowView -->
+        <!-- @class android.support.v17.leanback.widget.ListRowView -->
+        <style name="View.ViewGroup.LinearLayout.ListRowView_v17"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayout :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
