@@ -53,6 +53,10 @@
       <!-- LinearLayoutCompat --><!-- xxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :start xxxxxxx -->
       <!-- @class android.support.v7.widget.LinearLayoutCompat -->
       <style name="View.ViewGroup.FrameLayout.LinearLayoutCompat_v7"/>
+
+        <!-- ActionMenuView -->
+        <!-- @class android.support.v7.widget.ActionMenuView -->
+        <style name="View.ViewGroup.FrameLayout.ActionMenuView_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
