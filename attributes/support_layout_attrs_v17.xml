@@ -1,0 +1,13 @@
+<resources>
+
+  <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
+    <!-- Margin --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :start xxxxxxx -->
+      <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
+        <!-- BaseCardView -->
+        <!-- @class android.support.v17.leanback.widget.BaseCardView.LayoutParams -->
+        <style name="ViewGroup.Margin.FrameLayout.BaseCardView_v17"/>
+      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
+    <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Margin :end xxxxxxx -->
+  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
+
+</resources>
