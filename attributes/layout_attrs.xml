@@ -46,6 +46,10 @@
         <!-- @class android.widget.RadioGroup.LayoutParams -->
         <style name="ViewGroup.Margin.LinearLayout.RadioGroup"/>
 
+        <!-- TableLayout --><!-- API 1 -->
+        <!-- @class android.widget.TableLayout.LayoutParams -->
+        <style name="ViewGroup.Margin.LinearLayout.TableLayout"/>
+
         <!-- ActionMenuView --><!-- API 21 -->
         <!-- @class android.widget.ActionMenuView.LayoutParams -->
         <style name="ViewGroup.Margin.LinearLayout.ActionMenuView"/>
