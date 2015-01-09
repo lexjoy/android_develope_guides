@@ -4,7 +4,7 @@
     <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
       <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
         <!-- TabHost --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TabHost :start xxxxxxx -->
-          <!-- FragmentTabHost -->
+          <!-- FragmentTabHost --><!-- API support_v13 -->
           <!-- @class android.support.v13.app.FragmentTabHost -->
           <style name="View.ViewGroup.FrameLayout.TabHost.FragmentTabHost/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TabHost :end xxxxxxx -->
