@@ -1,18 +1,18 @@
 <resources>
 
   <!-- View --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :start xxxxxxx -->
-    <!-- MediaRouteButton -->
+    <!-- MediaRouteButton --><!-- API support_v7 -->
     <!-- @class android.support.v7.app.MediaRouteButton -->
     <style name="View.MediaRouteButton_v7"/>
 
-    <!-- Space -->
+    <!-- Space --><!-- API support_v7 -->
     <!-- @class android.support.v7.widget.Space -->
     <style name="View.Space_v7"/>
 
     <!-- TextView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :start xxxxxxx -->
       <!-- Button --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Button :start xxxxxxx -->
         <!-- CompoundButton --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :start xxxxxxx -->
-          <!-- SwitchCompat -->
+          <!-- SwitchCompat --><!-- API support_v7 -->
           <!-- @class android.support.v7.widget.SwitchCompat -->
           <style name="View.TextView.CompoundButton.SwitchCompat_v7"/>
         <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CompoundButton :end xxxxxxx -->
@@ -20,7 +20,7 @@
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TextView :end xxxxxxx -->
 
     <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
-      <!-- GridLayout -->
+      <!-- GridLayout --><!-- API support_v7 -->
       <!-- @class android.support.v7.widget.GridLayout -->
       <style name="View.ViewGroup.GridLayout_v7">
         <item name="alignmentMode">@null</item>
@@ -32,45 +32,44 @@
         <item name="useDefaultMargins">@null</item>
       </style>
 
-      <!-- Toolbar -->
+      <!-- Toolbar --><!-- API support_v7 -->
       <!-- @class android.support.v7.widget.Toolbar -->
       <style name="View.ViewGroup.Toolbar_v7"/>
 
       <!-- FrameLayout --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :start xxxxxxx -->
-        <!-- CardView -->
+        <!-- CardView --><!-- API support_v7 -->
         <!-- @class android.support.v7.widget.CardView -->
         <style name="View.ViewGroup.FrameLayout.CardView_v7">
-          <item name="android.support.v7.cardview:cardBackgroundColor">@null</item>
-          <item name="android.support.v7.cardview:cardCornerRadius">@null</item>
-          <item name="android.support.v7.cardview:cardElevation">@null</item>
-          <item name="android.support.v7.cardview:cardMaxElevation">@null</item>
-          <item name="android.support.v7.cardview:cardPreventCornerOverlap">@null</item>
-          <item name="android.support.v7.cardview:cardUseCompatPadding">@null</item>
-          <item name="android.support.v7.cardview:contentPadding">@null</item>
-          <item name="android.support.v7.cardview:contentPaddingBottom">@null</item>
-          <item name="android.support.v7.cardview:contentPaddingLeft">@null</item>
-          <item name="android.support.v7.cardview:contentPaddingRight">@null</item>
-          <item name="android.support.v7.cardview:contentPaddingTop">@null</item>
+          <item name="cardBackgroundColor">@null</item>
+          <item name="cardCornerRadius">@null</item>
+          <item name="cardElevation">@null</item>
+          <item name="cardMaxElevation">@null</item>
+          <item name="cardPreventCornerOverlap">@null</item>
+          <item name="cardUseCompatPadding">@null</item>
+          <item name="contentPadding">@null</item>
+          <item name="contentPaddingBottom">@null</item>
+          <item name="contentPaddingLeft">@null</item>
+          <item name="contentPaddingRight">@null</item>
+          <item name="contentPaddingTop">@null</item>
         </style>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx FrameLayout :end xxxxxxx -->
 
-      <!-- LinearLayoutCompat --><!-- xxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :start xxxxxxx -->
+      <!-- LinearLayoutCompat --><!-- API support_v7 --><!-- xxx LinearLayoutCompat :start xxxxxxx -->
       <!-- @class android.support.v7.widget.LinearLayoutCompat -->
       <style name="View.ViewGroup.FrameLayout.LinearLayoutCompat_v7"/>
 
-        <!-- ActionMenuView -->
+        <!-- ActionMenuView --><!-- API support_v7 -->
         <!-- @class android.support.v7.widget.ActionMenuView -->
         <style name="View.ViewGroup.FrameLayout.LinearLayoutCompat_v7.ActionMenuView_v7"/>
 
-        <!-- SearchView -->
+        <!-- SearchView --><!-- API support_v7 -->
         <!-- android.support.v7.widget.SearchView -->
         <style name="View.ViewGroup.FrameLayout.LinearLayoutCompat_v7.SearchView_v7"/>
       <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LinearLayoutCompat :end xxxxxxx -->
 
-      <!-- RecyclerView --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :start xxxxxxx -->
+      <!-- RecyclerView --><!-- API support_v7 -->
       <!-- @class android.support.v7.widget.RecyclerView -->
       <style name="View.ViewGroup.FrameLayout.RecyclerView_v7"/>
-      <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RecyclerView :end xxxxxxx -->
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
   <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :end xxxxxxx -->
 
