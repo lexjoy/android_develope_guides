@@ -2,29 +2,29 @@
 
   <!-- View --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx View :start xxxxxxx -->
     <!-- ProgressBar --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :start xxxxxxx -->
-      <!-- ContentLoadingProgressBar -->
+      <!-- ContentLoadingProgressBar --><!-- API support_v4 -->
       <!-- @class android.support.v4.widget.ContentLoadingProgressBar -->
       <style name="View.ProgressBar.ContentLoadingProgressBar_v4"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ProgressBar :end xxxxxxx -->
 
     <!-- ViewGroup --><!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :start xxxxxxx -->
-      <!-- DrawerLayout -->
+      <!-- DrawerLayout --><!-- API support_v4 -->
       <!-- @class android.support.v4.widget.DrawerLayout -->
       <style name="View.ViewGroup.DrawerLayout_v4"/>
 
-      <!-- SlidingPaneLayout -->
+      <!-- SlidingPaneLayout --><!-- API support_v4 -->
       <!-- @class android.support.v4.widget.SlidingPaneLayout -->
       <style name="View.ViewGroup.SlidingPaneLayout_v4"/>
 
-      <!-- SwipeRefreshLayout -->
+      <!-- SwipeRefreshLayout --><!-- API support_v4 -->
       <!-- @class android.support.v4.widget.SwipeRefreshLayout -->
       <style name="View.ViewGroup.SwipeRefreshLayout_v4"/>
 
-      <!-- ViewPager -->
+      <!-- ViewPager --><!-- API support_v4 -->
       <!-- @class android.support.v4.view.ViewPager -->
       <style name="View.ViewGroup.ViewPager_v4"/>
 
-      <!-- PagerTitleStrip -->
+      <!-- PagerTitleStrip --><!-- API support_v4 -->
       <!-- @class android.support.v4.view.PagerTitleStrip -->
       <style name="View.ViewGroup.PagerTitleStrip_v4"/>
     <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ViewGroup :end xxxxxxx -->
