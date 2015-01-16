@@ -8,25 +8,25 @@ API level: `API 12`
 
 prefix: `USB_CLASS_`
 
-|Name               |Value|Hex Value |Description                                                                |
-|:------------------|----:|---------:|:--------------------------------------------------------------------------|
-|PER_INTERFACE      |    0|0x00000000|USB class indicating that the class is determined on a per-interface basis.|
-|AUDIO              |    1|0x00000001|USB class for audio devices.                                               |
-|COMM               |    2|0x00000002|USB class for communication devices.                                       |
-|HID                |    3|0x00000003|USB class for human interface devices (for example, mice and keyboards).   |
-|PHYSICAL           |    5|0x00000005|USB class for physical devices.                                            |
-|STILL_IMAGE        |    6|0x00000006|USB class for still image devices (digital cameras).                       |
-|PRINTER            |    7|0x00000007|USB class for printers.                                                    |
-|MASS_STORAGE       |    8|0x00000008|USB class for mass storage devices.                                        |
-|HUB                |    9|0x00000009|USB class for USB hubs.                                                    |
-|CDC_DATA           |   10|0x0000000a|USB class for CDC devices (communications device class).                   |
-|CSCID              |   11|0x0000000b|USB class for content smart card devices.                                  |
-|CONTENT_SEC        |   13|0x0000000d|USB class for content security devices.                                    |
-|VIDEO              |   14|0x0000000e|USB class for video devices.                                               |
-|WIRELESS_CONTROLLER|  224|0x000000e0|USB class for wireless controller devices.                                 |
-|MISC               |  239|0x000000ef|USB class for wireless miscellaneous devices.                              |
-|APP_SPEC           |  254|0x000000fe|Application specific USB class.                                            |
-|VENDOR_SPEC        |  255|0x000000ff|Vendor specific USB class.                                                 |
+|Name               |Value|Hex Value |Description                                               |
+|:------------------|----:|---------:|:---------------------------------------------------------|
+|PER_INTERFACE      |    0|0x00000000|class determined on a per-interface basis.                |
+|AUDIO              |    1|0x00000001|audio devices.                                            |
+|COMM               |    2|0x00000002|communication devices.                                    |
+|HID                |    3|0x00000003|human interface devices (for example, mice and keyboards).|
+|PHYSICAL           |    5|0x00000005|physical devices.                                         |
+|STILL_IMAGE        |    6|0x00000006|still image devices (digital cameras).                    |
+|PRINTER            |    7|0x00000007|printers.                                                 |
+|MASS_STORAGE       |    8|0x00000008|mass storage devices.                                     |
+|HUB                |    9|0x00000009|USB hubs.                                                 |
+|CDC_DATA           |   10|0x0000000a|CDC devices (communications device class).                |
+|CSCID              |   11|0x0000000b|content smart card devices.                               |
+|CONTENT_SEC        |   13|0x0000000d|content security devices.                                 |
+|VIDEO              |   14|0x0000000e|video devices.                                            |
+|WIRELESS_CONTROLLER|  224|0x000000e0|wireless controller devices.                              |
+|MISC               |  239|0x000000ef|wireless miscellaneous devices.                           |
+|APP_SPEC           |  254|0x000000fe|Application specific USB class.                           |
+|VENDOR_SPEC        |  255|0x000000ff|Vendor specific USB class.                                |
 
 ## Subclass
 
