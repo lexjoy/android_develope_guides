@@ -166,6 +166,7 @@
 
 |Word|Description|
 |:---|:----------|
+|robotics|机器人技术|
 
 ## <a name="s"></a>S
 
@@ -198,6 +199,7 @@
 
 |Word|Description|
 |:---|:----------|
+|vendor|供应商|
 
 ## <a name="w"></a>W
 
