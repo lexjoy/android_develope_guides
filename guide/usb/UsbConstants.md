@@ -48,7 +48,7 @@ prefix: `USB_INTERFACE_SUBCLASS_`
 
 prefix: `USB_ENDPOINT_`
 
-|Name         |Value|Hex Value ||Description                                                                 |
+|Name         |Value|Hex Value |Description                                                                  |
 |:------------|----:|---------:|:----------------------------------------------------------------------------|
 |XFER_CONTROL |    0|0x00000000|Control endpoint type (endpoint zero)                                        |
 |XFER_ISOC    |    1|0x00000001|Isochronous endpoint type (currently not supported)                          |
