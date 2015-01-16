@@ -1,0 +1,174 @@
+
+View [API 1]
+
+  ViewStub    [API 1]-
+  AnalogClock [API 1]
+
+  ImageView   [API 1]
+
+    ImageButton [API 1]-
+
+      ZoomButton [API 1]-
+
+    QuickContactBadge [API 5]-
+
+  ProgressBar [API 1]
+
+    AbsSeekBar [API 1]
+
+      RatingBar [API 1]
+      SeekBar   [API 1]
+
+    ContentLoadingProgressBar [API support_v4]-
+
+  SurfaceView [API 1]-
+
+    VideoView     [API 1]-
+    GLSurfaceView [API 3]-
+
+  TextView [API 1]
+  
+    CheckedTextView [API 1]
+    Chronometer     [API 1]
+    DigitalClock    [API 1]- [@deprecated -> TextClock @API 17]
+
+    Button [API 1]-
+
+      CompoundButton [API 1]
+
+        CheckBox     [API 1]-
+        RadioButton  [API 1]-
+        ToggleButton [API 1]
+
+        Switch [API 14]
+        SwitchCompat [API support_v7]-
+
+    EditText [API 1]-
+
+      AutoCompleteTextView [API 1]
+
+        MultiAutoCompleteTextView [API 1]-
+
+      ExtractEditText [API 3]-
+      SearchEditText [API support_v17]-
+
+    TextClock [API 17]
+
+    RowHeaderView [API support_v17]-
+
+  ViewGroup [API 1]
+
+    AbsoluteLayout [API 1]- [@deprecated @API 3]
+
+      WebView [API 1]
+
+    AdapterView [API 1]-
+
+      AbsListView [API 1]
+
+        GridView [API 1]
+
+        ListView [API 1]
+
+          ExpandableListView [API 1]
+
+      AbsSpinner [API 1]
+
+        Gallery [API 1] [@deprecated->HorizontalScrollView, ViewPager @API 16]
+        Spinner [API 1]
+
+      AdapterViewAnimator [API 11]
+
+        AdapterViewFlipper [API 11]
+        StackView          [API 11]-
+
+    FrameLayout [API 1]
+
+      DatePicker      [API 1]
+      MediaController [API 1]-
+      ScrollView      [API 1]
+      TimePicker      [API 1]-
+
+      TabHost [API 1]-
+
+        FragmentTabHost_v4  [API support_v4 ]-
+        FragmentTabHost_v13 [API support_v13]-
+
+      ViewAnimator [API 1]
+
+        ViewFlipper  [API 1]-
+        android:inAnimation
+
+        ViewSwitcher [API 1]-
+
+          ImageSwitcher [API 1]-
+          TextSwitcher  [API 1]-
+
+      AppWidgetHostView    [API 3]-
+      HorizontalScrollView [API 3]
+      GestureOverlayView [API 4]
+      CalendarView [API 11]
+      GridLayout [API 14]
+      CardView [API support_v7]
+      GridLayout_v7 [API support_v7]
+      BaseCardView [API support_v17]-
+
+        ImageCardView [API support_v17]-
+
+      SearchOrbView [API support_v17]-
+
+        SpeechOrbView [API support_v17]-
+
+    LinearLayout [API 1]
+
+      RadioGroup   [API 1]
+      TabWidget    [API 1]
+      TableLayout  [API 1]
+      TableRow     [API 1]-
+      ZoomControls [API 1]-
+
+      NumberPicker [API 11]-
+      SearchView   [API 11]
+      ActionMenuView [API 21]-
+      ListRowHoverCardView [API support_v17]-
+      ListRowView [API support_v17]-
+
+    RelativeLayout [API 1]
+
+      DialerFilter [API 1]-
+      TwoLineListItem [API 1] [@deprecated->RelativeLayout,LinearLayout @API 17]
+
+      SearchBar [API support_v17]-
+
+    SlidingDrawer [API 3] [@deprecated @API 17]
+
+    FragmentBreadCrumbs [API 11]- [@deprecated @API 21]
+    TvView [API 21]-
+    DrawerLayout       [API support_v4]-
+    SlidingPaneLayout  [API support_v4]-
+    SwipeRefreshLayout [API support_v4]-
+    ViewPager          [API support_v4]-
+
+    PagerTitleStrip [API support_v4]-
+
+      PagerTabStrip [API support_v4]-
+
+    Toolbar [API support_v7]-
+
+    LinearLayoutCompat [API support_v7]-
+
+      ActionMenuView [API support_v7]-
+      SearchView     [API support_v7]-
+
+    RecyclerView [API support_v7]-
+
+      HorizontalGridView [API support_v17]-
+      VerticalGridView   [API support_v17]-
+
+    ShadowOverlayContainer [API support_v17]-
+
+  KeyboardView [API 3]
+  Space       [API 14]-
+  TextureView [API 14]-
+  MediaRouteButton [API support_v7]-
+  Space_v7         [API support_v7]-
