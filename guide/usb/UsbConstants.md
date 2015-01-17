@@ -58,7 +58,7 @@ prefix: `USB_ENDPOINT_`
 |NUMBER_MASK  |   15|0x0000000f|Bitmask used for extracting the UsbEndpoint number its address field.        |
 |DIR_MASK     |  128|0x00000080|Bitmask used for extracting the UsbEndpoint direction from its address field.|
 
-## Dir
+## Direction
 
 prefix: `USB_DIR_`
 

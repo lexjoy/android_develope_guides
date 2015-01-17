@@ -43,8 +43,9 @@
 
 [back to category](#category)
 
-|Word|Description|
-|:---|:----------|
+|Word     |Description|
+|:--------|:----------|
+|exclusive|独占        |
 
 ## <a name="f"></a>F
 
@@ -68,6 +69,7 @@
 |:--------|:----------|
 |haptic   |触觉        |
 |heuristic|试探        |
+|hub      |集线器      |
 
 ## <a name="i"></a>I
 
@@ -125,11 +127,12 @@
 
 [back to category](#category)
 
-|Word      |Description|
-|:---------|:----------|
-|peripheral|外围设备    |
-|pivot     |支点        |
-|preserve  |保留        |
+|Word      |Description   |
+|:---------|:-------------|
+|packet    |报文;数据包;分组|
+|peripheral|外围设备        |
+|pivot     |支点           |
+|preserve  |保留           |
 
 ## <a name="q"></a>Q
 
@@ -163,6 +166,7 @@
 |track      |轨迹        |
 |transition |过渡        |
 |translation|平移        |
+|trivial    |琐碎        |
 
 ## <a name="u"></a>U
 
