@@ -8,13 +8,13 @@ To communicate with the device, you open a **UsbDeviceConnection** for the devic
 
 base info:
 
-   int    clazz     = usbDevice.getDeviceClass   ();
-   int    subclazz  = usbDevice.getDeviceSubclass();
-   int    id        = usbDevice.getDeviceId      ();
-   int    vendorId  = usbDevice.getVendorId      ();
-   int    productId = usbDevice.getProductId     ();
-   int    protocol  = usbDevice.getDeviceProtocol();
-   String name      = usbDevice.getDeviceName    ();
+    int    clazz     = usbDevice.getDeviceClass   ();
+    int    subclazz  = usbDevice.getDeviceSubclass();
+    int    id        = usbDevice.getDeviceId      ();
+    int    vendorId  = usbDevice.getVendorId      ();
+    int    productId = usbDevice.getProductId     ();
+    int    protocol  = usbDevice.getDeviceProtocol();
+    String name      = usbDevice.getDeviceName    ();
 
 interface:
 
